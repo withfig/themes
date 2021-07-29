@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Sarah Drasner",
+    "twitter": "https://twitter.com/sarah_edo",
+    "github": "https://github.com/sdras"
+  },
+  "version": "1.0",
+  "theme": {
+    "backgroundColor": "#01162c",
+    "textColor": "#dbe2ee",
+    "matchBackgroundColor": "#525f7b",
+    "selection": {
+      "textColor": "#dbe2ee",
+      "backgroundColor": "#011122"
+    },
+    "description": {
+      "textColor": "#6988a0",
+      "borderColor": "#2b3041"
+    }
+  }
+}
