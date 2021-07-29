@@ -1,5 +1,8 @@
 {
-  "author": "The Fig Team",
+  "author": {
+    "name": "Pavel Pertsev",
+    "github": "https://github.com/morhetz"
+  },
   "version": "1.0",
   "theme": {
     "backgroundColor": "#282828",

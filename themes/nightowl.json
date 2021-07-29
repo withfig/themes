@@ -1,5 +1,9 @@
 {
-  "author": "The Fig Team",
+  "author": {
+    "name": "Sarah Drasner",
+    "twitter": "https://twitter.com/sarah_edo",
+    "github": "https://github.com/sdras"
+  },
   "version": "1.0",
   "theme": {
     "backgroundColor": "#01162c",
