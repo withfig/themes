@@ -3,7 +3,6 @@
   "theme": {
     "textColor": "#83befc",
     "backgroundColor": "#282e34",
-    "accent": "#ffb47b",
     "matchBackgroundColor": "#2d5072",
     "selection": {
       "textColor": "rgb(253,253,253)",
