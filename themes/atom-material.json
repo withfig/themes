@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Tobias Althoff",
+    "github": "tobiasalthoff"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "#a7b6b8",
+    "backgroundColor": "#232e33",
+    "matchBackgroundColor": "#2a373e",
+    "selection": {
+      "textColor": "#dff5f3",
+      "backgroundColor": "#009688"
+    },
+    "description": {
+      "textColor": "#e6f5f3",
+      "borderColor": "#29363d"
+    }
+  }
+}
