@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Dipak Parmar",
+    "twitter": "@iamdipakparmar",
+    "github": "dipakparmar"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "#FFF",
+    "backgroundColor": "#42687C",
+    "matchBackgroundColor": "#84A5B8",
+    "selection": {
+      "textColor": "#42687C",
+      "backgroundColor": "#B3DAF1"
+    },
+    "description": {
+      "textColor": "#61a99b",
+      "borderColor": "#122d42"
+    }
+  }
+}
