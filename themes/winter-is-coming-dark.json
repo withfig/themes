@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "John Papa",
+    "twitter": "@john_papa",
+    "github": "johnpapa"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "#219fd5",
+    "backgroundColor": "#022846",
+    "matchBackgroundColor": "#bce7ff",
+    "selection": {
+      "textColor": "#022846",
+      "backgroundColor": "#a4ceee"
+    },
+    "description": {
+      "textColor": "#61a99b",
+      "borderColor": "#122d42"
+    }
+  }
+}
