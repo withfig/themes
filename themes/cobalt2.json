@@ -5,6 +5,22 @@
     "github": "wesbos"
   },
   "version": "1.0",
+  "default": "dark",
+  "variants": {
+    "dark": {
+      "textColor": "#ffc600",
+      "backgroundColor": "#1b2c3f",
+      "matchBackgroundColor": "#6b8039",
+      "selection": {
+        "textColor": "#fff",
+        "backgroundColor": "#193549"
+      },
+      "description": {
+        "textColor": "#ffffff",
+        "borderColor": "#ffc600"
+      }
+    }
+  },
   "theme": {
     "textColor": "#ffc600",
     "backgroundColor": "#1b2c3f",
