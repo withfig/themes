@@ -1,0 +1,104 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Fig Theme ✨",
+    "description": "Describes what colors Fig uses.",
+    "$comment": "TODO: add better description?",
+    "type": "object",
+    "properties": {
+        "author": {
+            "type": "object",
+            "title": "Author",
+            "description": "Information about the amazing person who created this theme.",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "The name of the author.",
+                    "example": "Linus Torvalds"
+                },
+                "twitter": {
+                    "type": "string",
+                    "description": "The Twitter handle of the author.",
+                    "example": "@torvalds"
+                },
+                "github": {
+                    "type": "string",
+                    "description": "The GitHub username of the author.",
+                    "example": "torvalds"
+                }
+            },
+            "required": ["name"]
+        },
+        "version": {
+            "type": "string",
+            "title": "Version",
+            "description": "The SemVer version of the theme.",
+            "example": "1.0.0"
+        },
+
+        "theme": {
+            "type": "object",
+            "title": "Color Theme",
+            "markdownDescription": "The colors used in the theme.\n\nTheme colors can be any valid [CSS color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) value.",
+            "properties": {
+                "textColor": {
+                    "title": "Text Color",
+                    "$ref": "#/definitions/color"
+                },
+                "backgroundColor": {
+                    "title": "Background Color",
+                    "$ref": "#/definitions/color"
+                },
+                "matchBackgroundColor": {
+                    "title": "Match Background Color",
+                    "$ref": "#/definitions/color"
+                },
+                "selection": {
+                    "type": "object",
+                    "title": "Selection",
+                    "description": "The colors used for the currently selected autocompletion.",
+                    "properties": {
+                        "backgroundColor": {
+                            "title": "Selection Background Color",
+                            "$ref": "#/definitions/color"
+                        },
+                        "textColor": {
+                            "title": "Selection Text Color",
+                            "$ref": "#/definitions/color"
+                        }
+                    }
+                },
+                "description": {
+                    "type": "object",
+                    "title": "Description",
+                    "description": "The colors used for autocompletion descriptions. These appear at the bottom of the Fig window.",
+                    "properties": {
+                        "textColor": {
+                            "title": "Description Text Color",
+                            "$ref": "#/definitions/color"
+                        },
+                        "backgroundColor": {
+                            "title": "Description Background Color",
+                            "$ref": "#/definitions/color"
+                        },
+                        "borderColor": {
+                            "title": "Description Border Color",
+                            "$ref": "#/definitions/color"
+                        }
+                    }
+                }
+            }
+        }
+        
+    },
+    "definitions": {
+        "color": {
+            "title": "Color",
+            "markdownDescription": "A CSS color value. Check out the [CSS Color Types](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) page for more information.",
+            "type": "string",
+            "examples": [
+                "#000000",
+                "rgb(0, 0, 0)"
+            ]
+        }
+    }
+}
