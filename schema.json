@@ -64,6 +64,10 @@
                         "textColor": {
                             "title": "Selection Text Color",
                             "$ref": "#/definitions/color"
+                        },
+                        "matchBackgroundColor": {
+                            "title": "Match Background Color",
+                            "$ref": "#/definitions/color"
                         }
                     }
                 },
