@@ -22,7 +22,7 @@ As you type, Fig pops up subcommands, options, and contextually relevant argumen
 
 **Setup:**
 
-1. Click [here](https://GitHub.com/withfig/themes/fork/) to fork this repo. 
+1. Click [here](https://GitHub.com/withfig/themes/fork/) to fork this repo.
 
 2. Clone your forked repo and create an example spec
 
@@ -37,12 +37,12 @@ git remote add upstream https://github.com/withfig/themes.git
 
 3. Now run `cp template.json themes/<name>.json` and start editing your new theme 😊
 
-4. If you want to try out your theme locally you will need to first copy the theme to your local `.fig/themes` folder using 
+4. If you want to try out your theme locally you will need to first copy the theme to your local `/Users/<your_username>/Library/Application Support/fig/themes/themes` folder using
 
 ```
-cp themes/<name>.json ~/.fig/themes
+cp themes/<name>.json /Users/<your_username>/Library/Application\ Support/fig/themes/themes
 
-fig settings autocomplete.theme <name>
+fig settings theme <name>
 ```
 
 ## 😊 Need Help?
