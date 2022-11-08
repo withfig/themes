@@ -42,7 +42,7 @@ git remote add upstream https://github.com/withfig/themes.git
 ```
 cp themes/<name>.json /Users/<your_username>/Library/Application\ Support/fig/themes/themes
 
-fig settings theme <name>
+fig theme <name>
 ```
 
 ## 😊 Need Help?
