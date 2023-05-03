@@ -26,7 +26,7 @@ As you type, Fig pops up subcommands, options, and contextually relevant argumen
 
 2. Clone your forked repo and create an example spec
 
-```bash
+```shell
 # Replace `YOUR_GITHUB_USERNAME` with your own github username
 git clone https://github.com/YOUR_GITHUB_USERNAME/themes.git fig-themes
 cd fig-themes
@@ -37,10 +37,10 @@ git remote add upstream https://github.com/withfig/themes.git
 
 3. Now run `cp template.json themes/<name>.json` and start editing your new theme 😊
 
-4. If you want to try out your theme locally you will need to first copy the theme to your local `/Users/<your_username>/Library/Application Support/fig/themes/themes` folder using
+4. If you want to try out your theme locally you will need to first copy the theme to your local folder using
 
-```
-cp themes/<name>.json /Users/<your_username>/Library/Application\ Support/fig/themes/themes
+```shell
+cp themes/<name>.json "$(fig theme --folder)"
 
 fig theme <name>
 ```
