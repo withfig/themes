@@ -1,5 +1,5 @@
 {
-  "$schema": "./schema.json",
+  "$schema": "../schema.json",
   "author": {
     "name": "<YOUR NAME>",
     "twitter": "@<YOUR TWITTER HANDLE>",
