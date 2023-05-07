@@ -1,0 +1,24 @@
+{
+  "$schema": "../schema.json",
+  "author": {
+    "name": "Abhishek Aryan",
+    "twitter": "lunchb0ne",
+    "github": "lunchb0ne"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "#fdfdfe",
+    "backgroundColor": "#0F1014",
+    "matchBackgroundColor": "#c58fff",
+    "selection": {
+      "textColor": "#8eb6f5",
+      "backgroundColor": "#43444D",
+      "matchBackgroundColor": "#373643"
+    },
+    "description": {
+      "textColor": "#868690",
+      "borderColor": "#575861",
+      "backgroundColor": "#0F1014"
+    }
+  }
+}
