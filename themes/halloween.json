@@ -5,6 +5,22 @@
         "github": "brendanfalk"
     },
     "version": "1.0",
+    "default": "dark",
+    "variants": {
+      "dark": {
+        "backgroundColor": "#282828",
+        "textColor": "#e9d9b0",
+        "matchBackgroundColor": "#a89984",
+        "selection": {
+          "textColor": "#b8bb26",
+          "backgroundColor": "#1d2021"
+        },
+        "description": {
+          "textColor": "#d79921",
+          "borderColor": "#928374"
+        }
+      }
+    },
     "theme": {
       "textColor": "#c900ff",
       "backgroundColor": "#160000",
