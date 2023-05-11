@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "everforest",
+    "displayName": "Everforest",
+    "author": {
+        "name": "Sainnhe Park (https://github.com/sainnhe)"
+    },
+    "shade0": "#2f383e",
+    "shade1": "#374247",
+    "shade2": "#4a555b",
+    "shade3": "#859289",
+    "shade4": "#9da9a0",
+    "shade5": "#d3c6aa",
+    "shade6": "#e4e1cd",
+    "shade7": "#fdf6e3",
+    "accent0": "#7fbbb3",
+    "accent1": "#d699b6",
+    "accent2": "#dbbc7f",
+    "accent3": "#83c092",
+    "accent4": "#e69875",
+    "accent5": "#a7c080",
+    "accent6": "#e67e80",
+    "accent7": "#eaedc8"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "monokai",
+    "displayName": "Monokai",
+    "author": {
+        "name": "Wimer Hazenberg (http://www.monokai.nl)"
+    },
+    "shade0": "#272822",
+    "shade1": "#383830",
+    "shade2": "#49483e",
+    "shade3": "#75715e",
+    "shade4": "#a59f85",
+    "shade5": "#f8f8f2",
+    "shade6": "#f5f4f1",
+    "shade7": "#f9f8f5",
+    "accent0": "#f92672",
+    "accent1": "#fd971f",
+    "accent2": "#f4bf75",
+    "accent3": "#a6e22e",
+    "accent4": "#a1efe4",
+    "accent5": "#66d9ef",
+    "accent6": "#ae81ff",
+    "accent7": "#cc6633"
+}

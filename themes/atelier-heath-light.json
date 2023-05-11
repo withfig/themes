@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-heath-light",
+    "displayName": "Atelier Heath Light",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#f7f3f7",
+    "shade1": "#d8cad8",
+    "shade2": "#ab9bab",
+    "shade3": "#9e8f9e",
+    "shade4": "#776977",
+    "shade5": "#695d69",
+    "shade6": "#292329",
+    "shade7": "#1b181b",
+    "accent0": "#ca402b",
+    "accent1": "#a65926",
+    "accent2": "#bb8a35",
+    "accent3": "#918b3b",
+    "accent4": "#159393",
+    "accent5": "#516aec",
+    "accent6": "#7b59c0",
+    "accent7": "#cc33cc"
+}

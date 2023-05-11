@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "gotham",
+    "displayName": "Gotham",
+    "author": {
+        "name": "Andrea Leopardi (arranged by Brett Jones)"
+    },
+    "shade0": "#0c1014",
+    "shade1": "#11151c",
+    "shade2": "#091f2e",
+    "shade3": "#0a3749",
+    "shade4": "#245361",
+    "shade5": "#599cab",
+    "shade6": "#99d1ce",
+    "shade7": "#d3ebe9",
+    "accent0": "#c23127",
+    "accent1": "#d26937",
+    "accent2": "#edb443",
+    "accent3": "#33859E",
+    "accent4": "#2aa889",
+    "accent5": "#195466",
+    "accent6": "#888ca6",
+    "accent7": "#4e5166"
+}

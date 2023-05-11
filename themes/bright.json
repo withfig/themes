@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "bright",
+    "displayName": "Bright",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#000000",
+    "shade1": "#303030",
+    "shade2": "#505050",
+    "shade3": "#b0b0b0",
+    "shade4": "#d0d0d0",
+    "shade5": "#e0e0e0",
+    "shade6": "#f5f5f5",
+    "shade7": "#ffffff",
+    "accent0": "#fb0120",
+    "accent1": "#fc6d24",
+    "accent2": "#fda331",
+    "accent3": "#a1c659",
+    "accent4": "#76c7b7",
+    "accent5": "#6fb3d2",
+    "accent6": "#d381c3",
+    "accent7": "#be643c"
+}

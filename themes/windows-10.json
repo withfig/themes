@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "windows-10",
+    "displayName": "Windows 10",
+    "author": {
+        "name": "Fergus Collins (https://github.com/C-Fergus)"
+    },
+    "shade0": "#0c0c0c",
+    "shade1": "#2f2f2f",
+    "shade2": "#535353",
+    "shade3": "#767676",
+    "shade4": "#b9b9b9",
+    "shade5": "#cccccc",
+    "shade6": "#dfdfdf",
+    "shade7": "#f2f2f2",
+    "accent0": "#e74856",
+    "accent1": "#c19c00",
+    "accent2": "#f9f1a5",
+    "accent3": "#16c60c",
+    "accent4": "#61d6d6",
+    "accent5": "#3b78ff",
+    "accent6": "#b4009e",
+    "accent7": "#13a10e"
+}

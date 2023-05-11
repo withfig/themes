@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "decaf",
+    "displayName": "Decaf",
+    "author": {
+        "name": "Alex Mirrington (https://github.com/alexmirrington)"
+    },
+    "shade0": "#2d2d2d",
+    "shade1": "#393939",
+    "shade2": "#515151",
+    "shade3": "#777777",
+    "shade4": "#b4b7b4",
+    "shade5": "#cccccc",
+    "shade6": "#e0e0e0",
+    "shade7": "#ffffff",
+    "accent0": "#ff7f7b",
+    "accent1": "#ffbf70",
+    "accent2": "#ffd67c",
+    "accent3": "#beda78",
+    "accent4": "#bed6ff",
+    "accent5": "#90bee1",
+    "accent6": "#efb3f7",
+    "accent7": "#ff93b3"
+}

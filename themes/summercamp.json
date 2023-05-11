@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "summercamp",
+    "displayName": "summercamp",
+    "author": {
+        "name": "zoe firi (zoefiri.github.io)"
+    },
+    "shade0": "#1c1810",
+    "shade1": "#2a261c",
+    "shade2": "#3a3527",
+    "shade3": "#504b38",
+    "shade4": "#5f5b45",
+    "shade5": "#736e55",
+    "shade6": "#bab696",
+    "shade7": "#f8f5de",
+    "accent0": "#e35142",
+    "accent1": "#fba11b",
+    "accent2": "#f2ff27",
+    "accent3": "#5ceb5a",
+    "accent4": "#5aebbc",
+    "accent5": "#489bf0",
+    "accent6": "#FF8080",
+    "accent7": "#F69BE7"
+}

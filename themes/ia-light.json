@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "ia-light",
+    "displayName": "iA Light",
+    "author": {
+        "name": "iA Inc. (modified by aramisgithub)"
+    },
+    "shade0": "#f6f6f6",
+    "shade1": "#dedede",
+    "shade2": "#bde5f2",
+    "shade3": "#898989",
+    "shade4": "#767676",
+    "shade5": "#181818",
+    "shade6": "#e8e8e8",
+    "shade7": "#f8f8f8",
+    "accent0": "#9c5a02",
+    "accent1": "#c43e18",
+    "accent2": "#c48218",
+    "accent3": "#38781c",
+    "accent4": "#2d6bb1",
+    "accent5": "#48bac2",
+    "accent6": "#a94598",
+    "accent7": "#8b6c37"
+}

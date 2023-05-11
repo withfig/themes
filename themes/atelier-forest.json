@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-forest",
+    "displayName": "Atelier Forest",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#1b1918",
+    "shade1": "#2c2421",
+    "shade2": "#68615e",
+    "shade3": "#766e6b",
+    "shade4": "#9c9491",
+    "shade5": "#a8a19f",
+    "shade6": "#e6e2e0",
+    "shade7": "#f1efee",
+    "accent0": "#f22c40",
+    "accent1": "#df5320",
+    "accent2": "#c38418",
+    "accent3": "#7b9726",
+    "accent4": "#3d97b8",
+    "accent5": "#407ee7",
+    "accent6": "#6666ea",
+    "accent7": "#c33ff3"
+}

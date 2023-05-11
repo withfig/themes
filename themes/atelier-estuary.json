@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-estuary",
+    "displayName": "Atelier Estuary",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#22221b",
+    "shade1": "#302f27",
+    "shade2": "#5f5e4e",
+    "shade3": "#6c6b5a",
+    "shade4": "#878573",
+    "shade5": "#929181",
+    "shade6": "#e7e6df",
+    "shade7": "#f4f3ec",
+    "accent0": "#ba6236",
+    "accent1": "#ae7313",
+    "accent2": "#a5980d",
+    "accent3": "#7d9726",
+    "accent4": "#5b9d48",
+    "accent5": "#36a166",
+    "accent6": "#5f9182",
+    "accent7": "#9d6c7c"
+}

@@ -1,21 +1,25 @@
 {
-  "author": {
-    "name": "Ethan Schoonover",
-    "twitter": "@ethanschoonover",
-    "github": "altercation"
-  },
-  "version": "1.0",
-  "theme": {
-    "textColor": "#657b83",
-    "backgroundColor": "#fdf6e3",
-    "matchBackgroundColor": "#93a1a1",
-    "selection": {
-      "textColor": "#586e75",
-      "backgroundColor": "#268bd2"
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "solarized-light",
+    "displayName": "Solarized Light",
+    "author": {
+        "name": "Ethan Schoonover (modified by aramisgithub)"
     },
-    "description": {
-      "textColor": "#657b83",
-      "borderColor": "#eee8d5"
-    }
-  }
+    "shade0": "#fdf6e3",
+    "shade1": "#eee8d5",
+    "shade2": "#93a1a1",
+    "shade3": "#839496",
+    "shade4": "#657b83",
+    "shade5": "#586e75",
+    "shade6": "#073642",
+    "shade7": "#002b36",
+    "accent0": "#dc322f",
+    "accent1": "#cb4b16",
+    "accent2": "#b58900",
+    "accent3": "#859900",
+    "accent4": "#2aa198",
+    "accent5": "#268bd2",
+    "accent6": "#6c71c4",
+    "accent7": "#d33682"
 }

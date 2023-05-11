@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "classic-dark",
+    "displayName": "Classic Dark",
+    "author": {
+        "name": "Jason Heeris (http://heeris.id.au)"
+    },
+    "shade0": "#151515",
+    "shade1": "#202020",
+    "shade2": "#303030",
+    "shade3": "#505050",
+    "shade4": "#B0B0B0",
+    "shade5": "#D0D0D0",
+    "shade6": "#E0E0E0",
+    "shade7": "#F5F5F5",
+    "accent0": "#AC4142",
+    "accent1": "#D28445",
+    "accent2": "#F4BF75",
+    "accent3": "#90A959",
+    "accent4": "#75B5AA",
+    "accent5": "#6A9FB5",
+    "accent6": "#AA759F",
+    "accent7": "#8F5536"
+}

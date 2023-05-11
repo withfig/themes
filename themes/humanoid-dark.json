@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "humanoid-dark",
+    "displayName": "Humanoid dark",
+    "author": {
+        "name": "Thomas (tasmo) Friese"
+    },
+    "shade0": "#232629",
+    "shade1": "#333b3d",
+    "shade2": "#484e54",
+    "shade3": "#60615d",
+    "shade4": "#c0c0bd",
+    "shade5": "#f8f8f2",
+    "shade6": "#fcfcf6",
+    "shade7": "#fcfcfc",
+    "accent0": "#f11235",
+    "accent1": "#ff9505",
+    "accent2": "#ffb627",
+    "accent3": "#02d849",
+    "accent4": "#0dd9d6",
+    "accent5": "#00a6fb",
+    "accent6": "#f15ee3",
+    "accent7": "#b27701"
+}

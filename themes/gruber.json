@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "gruber",
+    "displayName": "Gruber",
+    "author": {
+        "name": "Patel, Nimai <nimai.m.patel@gmail.com>, colors from www.github.com/rexim/gruber-darker-theme"
+    },
+    "shade0": "#181818",
+    "shade1": "#453d41",
+    "shade2": "#484848",
+    "shade3": "#52494e",
+    "shade4": "#e4e4ef",
+    "shade5": "#f4f4ff",
+    "shade6": "#f5f5f5",
+    "shade7": "#e4e4ef",
+    "accent0": "#f43841",
+    "accent1": "#c73c3f",
+    "accent2": "#ffdd33",
+    "accent3": "#73c936",
+    "accent4": "#95a99f",
+    "accent5": "#96a6c8",
+    "accent6": "#9e95c7",
+    "accent7": "#cc8c3c"
+}

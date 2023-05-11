@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "materia",
+    "displayName": "Materia",
+    "author": {
+        "name": "Defman21"
+    },
+    "shade0": "#263238",
+    "shade1": "#2C393F",
+    "shade2": "#37474F",
+    "shade3": "#707880",
+    "shade4": "#C9CCD3",
+    "shade5": "#CDD3DE",
+    "shade6": "#D5DBE5",
+    "shade7": "#FFFFFF",
+    "accent0": "#EC5F67",
+    "accent1": "#EA9560",
+    "accent2": "#FFCC00",
+    "accent3": "#8BD649",
+    "accent4": "#80CBC4",
+    "accent5": "#89DDFF",
+    "accent6": "#82AAFF",
+    "accent7": "#EC5F67"
+}

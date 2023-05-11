@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "stella",
+    "displayName": "Stella",
+    "author": {
+        "name": "Shrimpram"
+    },
+    "shade0": "#2B213C",
+    "shade1": "#362B48",
+    "shade2": "#4D4160",
+    "shade3": "#655978",
+    "shade4": "#7F7192",
+    "shade5": "#998BAD",
+    "shade6": "#B4A5C8",
+    "shade7": "#EBDCFF",
+    "accent0": "#C79987",
+    "accent1": "#8865C6",
+    "accent2": "#C7C691",
+    "accent3": "#ACC79B",
+    "accent4": "#9BC7BF",
+    "accent5": "#A5AAD4",
+    "accent6": "#C594FF",
+    "accent7": "#C7AB87"
+}

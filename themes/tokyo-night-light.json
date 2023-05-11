@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tokyo-night-light",
+    "displayName": "Tokyo Night Light",
+    "author": {
+        "name": "Michaël Ball"
+    },
+    "shade0": "#D5D6DB",
+    "shade1": "#CBCCD1",
+    "shade2": "#DFE0E5",
+    "shade3": "#9699A3",
+    "shade4": "#4C505E",
+    "shade5": "#343B59",
+    "shade6": "#1A1B26",
+    "shade7": "#1A1B26",
+    "accent0": "#343B58",
+    "accent1": "#965027",
+    "accent2": "#166775",
+    "accent3": "#485E30",
+    "accent4": "#3E6968",
+    "accent5": "#34548A",
+    "accent6": "#5A4A78",
+    "accent7": "#8C4351"
+}

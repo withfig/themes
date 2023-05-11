@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tokyo-city-terminal-light",
+    "displayName": "Tokyo City Terminal Light",
+    "author": {
+        "name": "Michaël Ball"
+    },
+    "shade0": "#FBFBFD",
+    "shade1": "#F6F6F8",
+    "shade2": "#D8E2EC",
+    "shade3": "#B7C5D3",
+    "shade4": "#526270",
+    "shade5": "#28323A",
+    "shade6": "#1D252C",
+    "shade7": "#171D23",
+    "accent0": "#8C4351",
+    "accent1": "#965027",
+    "accent2": "#8f5E15",
+    "accent3": "#33635C",
+    "accent4": "#0F4B6E",
+    "accent5": "#34548A",
+    "accent6": "#5A4A78",
+    "accent7": "#7E5140"
+}

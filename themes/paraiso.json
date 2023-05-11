@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "paraiso",
+    "displayName": "Paraiso",
+    "author": {
+        "name": "Jan T. Sott"
+    },
+    "shade0": "#2f1e2e",
+    "shade1": "#41323f",
+    "shade2": "#4f424c",
+    "shade3": "#776e71",
+    "shade4": "#8d8687",
+    "shade5": "#a39e9b",
+    "shade6": "#b9b6b0",
+    "shade7": "#e7e9db",
+    "accent0": "#ef6155",
+    "accent1": "#f99b15",
+    "accent2": "#fec418",
+    "accent3": "#48b685",
+    "accent4": "#5bc4bf",
+    "accent5": "#06b6ef",
+    "accent6": "#815ba4",
+    "accent7": "#e96ba8"
+}

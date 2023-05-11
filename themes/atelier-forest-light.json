@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-forest-light",
+    "displayName": "Atelier Forest Light",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#f1efee",
+    "shade1": "#e6e2e0",
+    "shade2": "#a8a19f",
+    "shade3": "#9c9491",
+    "shade4": "#766e6b",
+    "shade5": "#68615e",
+    "shade6": "#2c2421",
+    "shade7": "#1b1918",
+    "accent0": "#f22c40",
+    "accent1": "#df5320",
+    "accent2": "#c38418",
+    "accent3": "#7b9726",
+    "accent4": "#3d97b8",
+    "accent5": "#407ee7",
+    "accent6": "#6666ea",
+    "accent7": "#c33ff3"
+}

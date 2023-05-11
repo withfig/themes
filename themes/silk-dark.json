@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "silk-dark",
+    "displayName": "Silk Dark",
+    "author": {
+        "name": "Gabriel Fontes (https://github.com/Misterio77)"
+    },
+    "shade0": "#0e3c46",
+    "shade1": "#1D494E",
+    "shade2": "#2A5054",
+    "shade3": "#587073",
+    "shade4": "#9DC8CD",
+    "shade5": "#C7DBDD",
+    "shade6": "#CBF2F7",
+    "shade7": "#D2FAFF",
+    "accent0": "#fb6953",
+    "accent1": "#fcab74",
+    "accent2": "#fce380",
+    "accent3": "#73d8ad",
+    "accent4": "#3fb2b9",
+    "accent5": "#46bddd",
+    "accent6": "#756b8a",
+    "accent7": "#9b647b"
+}

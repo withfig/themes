@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "spaceduck",
+    "displayName": "Spaceduck",
+    "author": {
+        "name": "Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)"
+    },
+    "shade0": "#16172d",
+    "shade1": "#1b1c36",
+    "shade2": "#30365F",
+    "shade3": "#686f9a",
+    "shade4": "#818596",
+    "shade5": "#ecf0c1",
+    "shade6": "#c1c3cc",
+    "shade7": "#ffffff",
+    "accent0": "#e33400",
+    "accent1": "#e39400",
+    "accent2": "#f2ce00",
+    "accent3": "#5ccc96",
+    "accent4": "#00a3cc",
+    "accent5": "#7a5ccc",
+    "accent6": "#b3a1e6",
+    "accent7": "#ce6f8f"
+}

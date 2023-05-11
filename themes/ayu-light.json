@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "ayu-light",
+    "displayName": "Ayu Light",
+    "author": {
+        "name": "Khue Nguyen <Z5483Y@gmail.com>"
+    },
+    "shade0": "#FAFAFA",
+    "shade1": "#F3F4F5",
+    "shade2": "#F8F9FA",
+    "shade3": "#ABB0B6",
+    "shade4": "#828C99",
+    "shade5": "#5C6773",
+    "shade6": "#242936",
+    "shade7": "#1A1F29",
+    "accent0": "#F07178",
+    "accent1": "#FA8D3E",
+    "accent2": "#F2AE49",
+    "accent3": "#86B300",
+    "accent4": "#4CBF99",
+    "accent5": "#36A3D9",
+    "accent6": "#A37ACC",
+    "accent7": "#E6BA7E"
+}

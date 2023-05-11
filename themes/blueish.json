@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "blueish",
+    "displayName": "Blueish",
+    "author": {
+        "name": "Ben Mayoras"
+    },
+    "shade0": "#182430",
+    "shade1": "#243C54",
+    "shade2": "#46290A",
+    "shade3": "#616D78",
+    "shade4": "#74AFE7",
+    "shade5": "#C8E1F8",
+    "shade6": "#DDEAF6",
+    "shade7": "#8F98A0",
+    "accent0": "#4CE587",
+    "accent1": "#F6A85C",
+    "accent2": "#82AAFF",
+    "accent3": "#C3E88D",
+    "accent4": "#5FD1FF",
+    "accent5": "#82AAFF",
+    "accent6": "#FF84DD",
+    "accent7": "#BBD2E8"
+}

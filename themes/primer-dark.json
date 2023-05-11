@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "primer-dark",
+    "displayName": "Primer Dark",
+    "author": {
+        "name": "Jimmy Lin"
+    },
+    "shade0": "#010409",
+    "shade1": "#21262d",
+    "shade2": "#30363d",
+    "shade3": "#484f58",
+    "shade4": "#8b949e",
+    "shade5": "#b1bac4",
+    "shade6": "#c9d1d9",
+    "shade7": "#f0f6fc",
+    "accent0": "#ff7b72",
+    "accent1": "#f0883e",
+    "accent2": "#d29922",
+    "accent3": "#3fb950",
+    "accent4": "#a5d6ff",
+    "accent5": "#58a6ff",
+    "accent6": "#f778ba",
+    "accent7": "#bd561d"
+}

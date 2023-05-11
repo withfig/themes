@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "kimber",
+    "displayName": "Kimber",
+    "author": {
+        "name": "Mishka Nguyen (https://github.com/akhsiM)"
+    },
+    "shade0": "#222222",
+    "shade1": "#313131",
+    "shade2": "#555D55",
+    "shade3": "#644646",
+    "shade4": "#5A5A5A",
+    "shade5": "#DEDEE7",
+    "shade6": "#C3C3B4",
+    "shade7": "#FFFFE6",
+    "accent0": "#C88C8C",
+    "accent1": "#476C88",
+    "accent2": "#D8B56D",
+    "accent3": "#99C899",
+    "accent4": "#78B4B4",
+    "accent5": "#537C9C",
+    "accent6": "#86CACD",
+    "accent7": "#704F4F"
+}

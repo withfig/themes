@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "emil",
+    "displayName": "emil",
+    "author": {
+        "name": "limelier"
+    },
+    "shade0": "#efefef",
+    "shade1": "#bebed2",
+    "shade2": "#9e9eaf",
+    "shade3": "#7c7c98",
+    "shade4": "#505063",
+    "shade5": "#313145",
+    "shade6": "#22223a",
+    "shade7": "#1a1a2f",
+    "accent0": "#f43979",
+    "accent1": "#d22a8b",
+    "accent2": "#ff669b",
+    "accent3": "#0073a8",
+    "accent4": "#2155d6",
+    "accent5": "#471397",
+    "accent6": "#6916b6",
+    "accent7": "#8d17a5"
+}

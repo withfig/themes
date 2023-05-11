@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "brewer",
+    "displayName": "Brewer",
+    "author": {
+        "name": "Timothée Poisot (http://github.com/tpoisot)"
+    },
+    "shade0": "#0c0d0e",
+    "shade1": "#2e2f30",
+    "shade2": "#515253",
+    "shade3": "#737475",
+    "shade4": "#959697",
+    "shade5": "#b7b8b9",
+    "shade6": "#dadbdc",
+    "shade7": "#fcfdfe",
+    "accent0": "#e31a1c",
+    "accent1": "#e6550d",
+    "accent2": "#dca060",
+    "accent3": "#31a354",
+    "accent4": "#80b1d3",
+    "accent5": "#3182bd",
+    "accent6": "#756bb1",
+    "accent7": "#b15928"
+}

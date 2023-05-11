@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "grayscale-dark",
+    "displayName": "Grayscale Dark",
+    "author": {
+        "name": "Alexandre Gavioli (https://github.com/Alexx2/)"
+    },
+    "shade0": "#101010",
+    "shade1": "#252525",
+    "shade2": "#464646",
+    "shade3": "#525252",
+    "shade4": "#ababab",
+    "shade5": "#b9b9b9",
+    "shade6": "#e3e3e3",
+    "shade7": "#f7f7f7",
+    "accent0": "#7c7c7c",
+    "accent1": "#999999",
+    "accent2": "#a0a0a0",
+    "accent3": "#8e8e8e",
+    "accent4": "#868686",
+    "accent5": "#686868",
+    "accent6": "#747474",
+    "accent7": "#5e5e5e"
+}

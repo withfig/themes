@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "onedark",
+    "displayName": "OneDark",
+    "author": {
+        "name": "Lalit Magant (http://github.com/tilal6991)"
+    },
+    "shade0": "#282c34",
+    "shade1": "#353b45",
+    "shade2": "#3e4451",
+    "shade3": "#545862",
+    "shade4": "#565c64",
+    "shade5": "#abb2bf",
+    "shade6": "#b6bdca",
+    "shade7": "#c8ccd4",
+    "accent0": "#e06c75",
+    "accent1": "#d19a66",
+    "accent2": "#e5c07b",
+    "accent3": "#98c379",
+    "accent4": "#56b6c2",
+    "accent5": "#61afef",
+    "accent6": "#c678dd",
+    "accent7": "#be5046"
+}

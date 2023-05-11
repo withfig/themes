@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "mountain",
+    "displayName": "Mountain",
+    "author": {
+        "name": "gnsfujiwara (https://github.com/gnsfujiwara)"
+    },
+    "shade0": "#0f0f0f",
+    "shade1": "#191919",
+    "shade2": "#262626",
+    "shade3": "#4c4c4c",
+    "shade4": "#ac8a8c",
+    "shade5": "#cacaca",
+    "shade6": "#e7e7e7",
+    "shade7": "#f0f0f0",
+    "accent0": "#ac8a8c",
+    "accent1": "#ceb188",
+    "accent2": "#aca98a",
+    "accent3": "#8aac8b",
+    "accent4": "#8aabac",
+    "accent5": "#8f8aac",
+    "accent6": "#ac8aac",
+    "accent7": "#ac8a8c"
+}

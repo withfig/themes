@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "equilibrium-dark",
+    "displayName": "Equilibrium Dark",
+    "author": {
+        "name": "Carlo Abelli"
+    },
+    "shade0": "#0c1118",
+    "shade1": "#181c22",
+    "shade2": "#22262d",
+    "shade3": "#7b776e",
+    "shade4": "#949088",
+    "shade5": "#afaba2",
+    "shade6": "#cac6bd",
+    "shade7": "#e7e2d9",
+    "accent0": "#f04339",
+    "accent1": "#df5923",
+    "accent2": "#bb8801",
+    "accent3": "#7f8b00",
+    "accent4": "#00948b",
+    "accent5": "#008dd1",
+    "accent6": "#6a7fd2",
+    "accent7": "#e3488e"
+}

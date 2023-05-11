@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "heetch",
+    "displayName": "Heetch Dark",
+    "author": {
+        "name": "Geoffrey Teale (tealeg@gmail.com)"
+    },
+    "shade0": "#190134",
+    "shade1": "#392551",
+    "shade2": "#5A496E",
+    "shade3": "#7B6D8B",
+    "shade4": "#9C92A8",
+    "shade5": "#BDB6C5",
+    "shade6": "#DEDAE2",
+    "shade7": "#FEFFFF",
+    "accent0": "#27D9D5",
+    "accent1": "#5BA2B6",
+    "accent2": "#8F6C97",
+    "accent3": "#C33678",
+    "accent4": "#F80059",
+    "accent5": "#BD0152",
+    "accent6": "#82034C",
+    "accent7": "#470546"
+}

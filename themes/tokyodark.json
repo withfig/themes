@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tokyodark",
+    "displayName": "Tokyodark",
+    "author": {
+        "name": "Tiagovla (https://github.com/tiagovla/)"
+    },
+    "shade0": "#11121d",
+    "shade1": "#151621",
+    "shade2": "#43444f",
+    "shade3": "#393a45",
+    "shade4": "#1b1c27",
+    "shade5": "#abb2bf",
+    "shade6": "#555661",
+    "shade7": "#2c2d38",
+    "accent0": "#a485dd",
+    "accent1": "#a485dd",
+    "accent2": "#7199ee",
+    "accent3": "#d7A65f",
+    "accent4": "#a485dd",
+    "accent5": "#95c561",
+    "accent6": "#ee6d85",
+    "accent7": "#773440"
+}

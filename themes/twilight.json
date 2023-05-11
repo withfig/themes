@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "twilight",
+    "displayName": "Twilight",
+    "author": {
+        "name": "David Hart (https://github.com/hartbit)"
+    },
+    "shade0": "#1e1e1e",
+    "shade1": "#323537",
+    "shade2": "#464b50",
+    "shade3": "#5f5a60",
+    "shade4": "#838184",
+    "shade5": "#a7a7a7",
+    "shade6": "#c3c3c3",
+    "shade7": "#ffffff",
+    "accent0": "#cf6a4c",
+    "accent1": "#cda869",
+    "accent2": "#f9ee98",
+    "accent3": "#8f9d6a",
+    "accent4": "#afc4db",
+    "accent5": "#7587a6",
+    "accent6": "#9b859d",
+    "accent7": "#9b703f"
+}

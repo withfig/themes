@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "eighties",
+    "displayName": "Eighties",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#2d2d2d",
+    "shade1": "#393939",
+    "shade2": "#515151",
+    "shade3": "#747369",
+    "shade4": "#a09f93",
+    "shade5": "#d3d0c8",
+    "shade6": "#e8e6df",
+    "shade7": "#f2f0ec",
+    "accent0": "#f2777a",
+    "accent1": "#f99157",
+    "accent2": "#ffcc66",
+    "accent3": "#99cc99",
+    "accent4": "#66cccc",
+    "accent5": "#6699cc",
+    "accent6": "#cc99cc",
+    "accent7": "#d27b53"
+}

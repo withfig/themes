@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "papercolor-dark",
+    "displayName": "PaperColor Dark",
+    "author": {
+        "name": "Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)"
+    },
+    "shade0": "#1c1c1c",
+    "shade1": "#af005f",
+    "shade2": "#5faf00",
+    "shade3": "#d7af5f",
+    "shade4": "#5fafd7",
+    "shade5": "#808080",
+    "shade6": "#d7875f",
+    "shade7": "#d0d0d0",
+    "accent0": "#585858",
+    "accent1": "#5faf5f",
+    "accent2": "#afd700",
+    "accent3": "#af87d7",
+    "accent4": "#ffaf00",
+    "accent5": "#ff5faf",
+    "accent6": "#00afaf",
+    "accent7": "#5f8787"
+}

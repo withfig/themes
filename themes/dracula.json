@@ -1,22 +1,25 @@
 {
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "dracula",
+    "displayName": "Dracula",
     "author": {
-        "name": "Zeno Rocha",
-        "twitter": "@zenorocha",
-        "github": "zenorocha"
+        "name": "Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)"
     },
-    "version": "1.0",
-    "theme": {
-      "textColor": "#f8f8f2",
-      "backgroundColor": "#282a36",
-      "matchBackgroundColor": "#6272a4",
-      "selection": {
-        "textColor": "#f8f8f2",
-        "backgroundColor": "#44475a"
-      },
-      "description": {
-        "textColor": "#bd93f9",
-        "borderColor": "#44475a"
-      }
-    }
-  }
-  
+    "shade0": "#282936",
+    "shade1": "#3a3c4e",
+    "shade2": "#4d4f68",
+    "shade3": "#626483",
+    "shade4": "#62d6e8",
+    "shade5": "#e9e9f4",
+    "shade6": "#f1f2f8",
+    "shade7": "#f7f7fb",
+    "accent0": "#ea51b2",
+    "accent1": "#b45bcf",
+    "accent2": "#00f769",
+    "accent3": "#ebff87",
+    "accent4": "#a1efe4",
+    "accent5": "#62d6e8",
+    "accent6": "#b45bcf",
+    "accent7": "#00f769"
+}

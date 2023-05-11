@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tomorrow-night-eighties",
+    "displayName": "Tomorrow Night Eighties",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#2d2d2d",
+    "shade1": "#393939",
+    "shade2": "#515151",
+    "shade3": "#999999",
+    "shade4": "#b4b7b4",
+    "shade5": "#cccccc",
+    "shade6": "#e0e0e0",
+    "shade7": "#ffffff",
+    "accent0": "#f2777a",
+    "accent1": "#f99157",
+    "accent2": "#ffcc66",
+    "accent3": "#99cc99",
+    "accent4": "#66cccc",
+    "accent5": "#6699cc",
+    "accent6": "#cc99cc",
+    "accent7": "#a3685a"
+}

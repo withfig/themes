@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tomorrow",
+    "displayName": "Tomorrow",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#ffffff",
+    "shade1": "#e0e0e0",
+    "shade2": "#d6d6d6",
+    "shade3": "#8e908c",
+    "shade4": "#969896",
+    "shade5": "#4d4d4c",
+    "shade6": "#282a2e",
+    "shade7": "#1d1f21",
+    "accent0": "#c82829",
+    "accent1": "#f5871f",
+    "accent2": "#eab700",
+    "accent3": "#718c00",
+    "accent4": "#3e999f",
+    "accent5": "#4271ae",
+    "accent6": "#8959a8",
+    "accent7": "#a3685a"
+}

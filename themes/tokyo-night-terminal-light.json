@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tokyo-night-terminal-light",
+    "displayName": "Tokyo Night Terminal Light",
+    "author": {
+        "name": "Michaël Ball"
+    },
+    "shade0": "#D5D6DB",
+    "shade1": "#CBCCD1",
+    "shade2": "#DFE0E5",
+    "shade3": "#9699A3",
+    "shade4": "#4C505E",
+    "shade5": "#4C505E",
+    "shade6": "#1A1B26",
+    "shade7": "#1A1B26",
+    "accent0": "#8C4351",
+    "accent1": "#965027",
+    "accent2": "#8F5E15",
+    "accent3": "#33635C",
+    "accent4": "#0F4B6E",
+    "accent5": "#34548A",
+    "accent6": "#5A4A78",
+    "accent7": "#655259"
+}

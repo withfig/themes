@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "primer-light",
+    "displayName": "Primer Light",
+    "author": {
+        "name": "Jimmy Lin"
+    },
+    "shade0": "#fafbfc",
+    "shade1": "#e1e4e8",
+    "shade2": "#d1d5da",
+    "shade3": "#959da5",
+    "shade4": "#444d56",
+    "shade5": "#2f363d",
+    "shade6": "#24292e",
+    "shade7": "#1b1f23",
+    "accent0": "#d73a49",
+    "accent1": "#f66a0a",
+    "accent2": "#ffd33d",
+    "accent3": "#28a745",
+    "accent4": "#79b8ff",
+    "accent5": "#0366d6",
+    "accent6": "#ea4aaa",
+    "accent7": "#a04100"
+}

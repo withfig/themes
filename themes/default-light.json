@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "default-light",
+    "displayName": "Default Light",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#f8f8f8",
+    "shade1": "#e8e8e8",
+    "shade2": "#d8d8d8",
+    "shade3": "#b8b8b8",
+    "shade4": "#585858",
+    "shade5": "#383838",
+    "shade6": "#282828",
+    "shade7": "#181818",
+    "accent0": "#ab4642",
+    "accent1": "#dc9656",
+    "accent2": "#f7ca88",
+    "accent3": "#a1b56c",
+    "accent4": "#86c1b9",
+    "accent5": "#7cafc2",
+    "accent6": "#ba8baf",
+    "accent7": "#a16946"
+}

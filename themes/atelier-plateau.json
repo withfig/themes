@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-plateau",
+    "displayName": "Atelier Plateau",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#1b1818",
+    "shade1": "#292424",
+    "shade2": "#585050",
+    "shade3": "#655d5d",
+    "shade4": "#7e7777",
+    "shade5": "#8a8585",
+    "shade6": "#e7dfdf",
+    "shade7": "#f4ecec",
+    "accent0": "#ca4949",
+    "accent1": "#b45a3c",
+    "accent2": "#a06e3b",
+    "accent3": "#4b8b8b",
+    "accent4": "#5485b6",
+    "accent5": "#7272ca",
+    "accent6": "#8464c4",
+    "accent7": "#bd5187"
+}

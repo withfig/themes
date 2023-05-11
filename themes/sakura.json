@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "sakura",
+    "displayName": "Sakura",
+    "author": {
+        "name": "Misterio77 (http://github.com/Misterio77)"
+    },
+    "shade0": "#feedf3",
+    "shade1": "#f8e2e7",
+    "shade2": "#e0ccd1",
+    "shade3": "#755f64",
+    "shade4": "#665055",
+    "shade5": "#564448",
+    "shade6": "#42383a",
+    "shade7": "#33292b",
+    "accent0": "#df2d52",
+    "accent1": "#f6661e",
+    "accent2": "#c29461",
+    "accent3": "#2e916d",
+    "accent4": "#1d8991",
+    "accent5": "#006e93",
+    "accent6": "#5e2180",
+    "accent7": "#ba0d35"
+}

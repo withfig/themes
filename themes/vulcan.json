@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "vulcan",
+    "displayName": "vulcan",
+    "author": {
+        "name": "Andrey Varfolomeev"
+    },
+    "shade0": "#041523",
+    "shade1": "#122339",
+    "shade2": "#003552",
+    "shade3": "#7a5759",
+    "shade4": "#6b6977",
+    "shade5": "#5b778c",
+    "shade6": "#333238",
+    "shade7": "#214d68",
+    "accent0": "#818591",
+    "accent1": "#9198a3",
+    "accent2": "#adb4b9",
+    "accent3": "#977d7c",
+    "accent4": "#977d7c",
+    "accent5": "#977d7c",
+    "accent6": "#9198a3",
+    "accent7": "#977d7c"
+}

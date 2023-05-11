@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tender",
+    "displayName": "tender",
+    "author": {
+        "name": "Jacobo Tabernero (https://github/com/jacoborus/tender.vim)"
+    },
+    "shade0": "#282828",
+    "shade1": "#383838",
+    "shade2": "#484848",
+    "shade3": "#4c4c4c",
+    "shade4": "#b8b8b8",
+    "shade5": "#eeeeee",
+    "shade6": "#e8e8e8",
+    "shade7": "#feffff",
+    "accent0": "#f43753",
+    "accent1": "#dc9656",
+    "accent2": "#ffc24b",
+    "accent3": "#c9d05c",
+    "accent4": "#73cef4",
+    "accent5": "#b3deef",
+    "accent6": "#d3b987",
+    "accent7": "#a16946"
+}

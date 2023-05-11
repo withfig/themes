@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-plateau-light",
+    "displayName": "Atelier Plateau Light",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#f4ecec",
+    "shade1": "#e7dfdf",
+    "shade2": "#8a8585",
+    "shade3": "#7e7777",
+    "shade4": "#655d5d",
+    "shade5": "#585050",
+    "shade6": "#292424",
+    "shade7": "#1b1818",
+    "accent0": "#ca4949",
+    "accent1": "#b45a3c",
+    "accent2": "#a06e3b",
+    "accent3": "#4b8b8b",
+    "accent4": "#5485b6",
+    "accent5": "#7272ca",
+    "accent6": "#8464c4",
+    "accent7": "#bd5187"
+}

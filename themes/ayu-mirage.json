@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "ayu-mirage",
+    "displayName": "Ayu Mirage",
+    "author": {
+        "name": "Khue Nguyen <Z5483Y@gmail.com>"
+    },
+    "shade0": "#171B24",
+    "shade1": "#1F2430",
+    "shade2": "#242936",
+    "shade3": "#707A8C",
+    "shade4": "#8A9199",
+    "shade5": "#CCCAC2",
+    "shade6": "#D9D7CE",
+    "shade7": "#F3F4F5",
+    "accent0": "#F28779",
+    "accent1": "#FFAD66",
+    "accent2": "#FFD173",
+    "accent3": "#D5FF80",
+    "accent4": "#95E6CB",
+    "accent5": "#5CCFE6",
+    "accent6": "#D4BFFF",
+    "accent7": "#F29E74"
+}

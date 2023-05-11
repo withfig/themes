@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "mellow-purple",
+    "displayName": "Mellow Purple",
+    "author": {
+        "name": "gidsi"
+    },
+    "shade0": "#1e0528",
+    "shade1": "#1A092D",
+    "shade2": "#331354",
+    "shade3": "#320f55",
+    "shade4": "#873582",
+    "shade5": "#ffeeff",
+    "shade6": "#ffeeff",
+    "shade7": "#f8c0ff",
+    "accent0": "#00d9e9",
+    "accent1": "#aa00a3",
+    "accent2": "#955ae7",
+    "accent3": "#05cb0d",
+    "accent4": "#b900b1",
+    "accent5": "#550068",
+    "accent6": "#8991bb",
+    "accent7": "#4d6fff"
+}

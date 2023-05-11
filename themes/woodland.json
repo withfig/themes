@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "woodland",
+    "displayName": "Woodland",
+    "author": {
+        "name": "Jay Cornwall (https://jcornwall.com)"
+    },
+    "shade0": "#231e18",
+    "shade1": "#302b25",
+    "shade2": "#48413a",
+    "shade3": "#9d8b70",
+    "shade4": "#b4a490",
+    "shade5": "#cabcb1",
+    "shade6": "#d7c8bc",
+    "shade7": "#e4d4c8",
+    "accent0": "#d35c5c",
+    "accent1": "#ca7f32",
+    "accent2": "#e0ac16",
+    "accent3": "#b7ba53",
+    "accent4": "#6eb958",
+    "accent5": "#88a4d3",
+    "accent6": "#bb90e2",
+    "accent7": "#b49368"
+}

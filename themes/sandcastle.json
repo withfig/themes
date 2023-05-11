@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "sandcastle",
+    "displayName": "Sandcastle",
+    "author": {
+        "name": "George Essig (https://github.com/gessig)"
+    },
+    "shade0": "#282c34",
+    "shade1": "#2c323b",
+    "shade2": "#3e4451",
+    "shade3": "#665c54",
+    "shade4": "#928374",
+    "shade5": "#a89984",
+    "shade6": "#d5c4a1",
+    "shade7": "#fdf4c1",
+    "accent0": "#83a598",
+    "accent1": "#a07e3b",
+    "accent2": "#a07e3b",
+    "accent3": "#528b8b",
+    "accent4": "#83a598",
+    "accent5": "#83a598",
+    "accent6": "#d75f5f",
+    "accent7": "#a87322"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "material-darker",
+    "displayName": "Material Darker",
+    "author": {
+        "name": "Nate Peterson"
+    },
+    "shade0": "#212121",
+    "shade1": "#303030",
+    "shade2": "#353535",
+    "shade3": "#4A4A4A",
+    "shade4": "#B2CCD6",
+    "shade5": "#EEFFFF",
+    "shade6": "#EEFFFF",
+    "shade7": "#FFFFFF",
+    "accent0": "#F07178",
+    "accent1": "#F78C6C",
+    "accent2": "#FFCB6B",
+    "accent3": "#C3E88D",
+    "accent4": "#89DDFF",
+    "accent5": "#82AAFF",
+    "accent6": "#C792EA",
+    "accent7": "#FF5370"
+}

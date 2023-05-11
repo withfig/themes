@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "codeschool",
+    "displayName": "Codeschool",
+    "author": {
+        "name": "blockloop"
+    },
+    "shade0": "#232c31",
+    "shade1": "#1c3657",
+    "shade2": "#2a343a",
+    "shade3": "#3f4944",
+    "shade4": "#84898c",
+    "shade5": "#9ea7a6",
+    "shade6": "#a7cfa3",
+    "shade7": "#b5d8f6",
+    "accent0": "#2a5491",
+    "accent1": "#43820d",
+    "accent2": "#a03b1e",
+    "accent3": "#237986",
+    "accent4": "#b02f30",
+    "accent5": "#484d79",
+    "accent6": "#c59820",
+    "accent7": "#c98344"
+}

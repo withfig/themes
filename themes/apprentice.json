@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "apprentice",
+    "displayName": "Apprentice",
+    "author": {
+        "name": "romainl"
+    },
+    "shade0": "#262626",
+    "shade1": "#AF5F5F",
+    "shade2": "#5F875F",
+    "shade3": "#87875F",
+    "shade4": "#5F87AF",
+    "shade5": "#5F5F87",
+    "shade6": "#5F8787",
+    "shade7": "#6C6C6C",
+    "accent0": "#444444",
+    "accent1": "#FF8700",
+    "accent2": "#87AF87",
+    "accent3": "#FFFFAF",
+    "accent4": "#87AFD7",
+    "accent5": "#8787AF",
+    "accent6": "#5FAFAF",
+    "accent7": "#BCBCBC"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "pandora",
+    "displayName": "pandora",
+    "author": {
+        "name": "Cassandra Fox"
+    },
+    "shade0": "#131213",
+    "shade1": "#2f1823",
+    "shade2": "#472234",
+    "shade3": "#ffbee3",
+    "shade4": "#9b2a46",
+    "shade5": "#f15c99",
+    "shade6": "#81506a",
+    "shade7": "#632227",
+    "accent0": "#b00b69",
+    "accent1": "#ff9153",
+    "accent2": "#ffcc00",
+    "accent3": "#9ddf69",
+    "accent4": "#714ca6",
+    "accent5": "#008080",
+    "accent6": "#a24030",
+    "accent7": "#a24030"
+}

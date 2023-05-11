@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "pinky",
+    "displayName": "pinky",
+    "author": {
+        "name": "Benjamin (https://github.com/b3nj5m1n)"
+    },
+    "shade0": "#171517",
+    "shade1": "#1b181b",
+    "shade2": "#1d1b1d",
+    "shade3": "#383338",
+    "shade4": "#e7dbdb",
+    "shade5": "#f5f5f5",
+    "shade6": "#ffffff",
+    "shade7": "#f7f3f7",
+    "accent0": "#ffa600",
+    "accent1": "#00ff66",
+    "accent2": "#20df6c",
+    "accent3": "#ff0066",
+    "accent4": "#6600ff",
+    "accent5": "#00ffff",
+    "accent6": "#007fff",
+    "accent7": "#df206c"
+}

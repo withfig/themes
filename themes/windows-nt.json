@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "windows-nt",
+    "displayName": "Windows NT",
+    "author": {
+        "name": "Fergus Collins (https://github.com/C-Fergus)"
+    },
+    "shade0": "#000000",
+    "shade1": "#2a2a2a",
+    "shade2": "#555555",
+    "shade3": "#808080",
+    "shade4": "#a1a1a1",
+    "shade5": "#c0c0c0",
+    "shade6": "#e0e0e0",
+    "shade7": "#ffffff",
+    "accent0": "#ff0000",
+    "accent1": "#808000",
+    "accent2": "#ffff00",
+    "accent3": "#00ff00",
+    "accent4": "#00ffff",
+    "accent5": "#0000ff",
+    "accent6": "#ff00ff",
+    "accent7": "#008000"
+}

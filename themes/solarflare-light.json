@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "solarflare-light",
+    "displayName": "Solar Flare Light",
+    "author": {
+        "name": "Chuck Harmston (https://chuck.harmston.ch)"
+    },
+    "shade0": "#F5F7FA",
+    "shade1": "#E8E9ED",
+    "shade2": "#A6AFB8",
+    "shade3": "#85939E",
+    "shade4": "#667581",
+    "shade5": "#586875",
+    "shade6": "#222E38",
+    "shade7": "#18262F",
+    "accent0": "#EF5253",
+    "accent1": "#E66B2B",
+    "accent2": "#E4B51C",
+    "accent3": "#7CC844",
+    "accent4": "#52CBB0",
+    "accent5": "#33B5E1",
+    "accent6": "#A363D5",
+    "accent7": "#D73C9A"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "mocha",
+    "displayName": "Mocha",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#3B3228",
+    "shade1": "#534636",
+    "shade2": "#645240",
+    "shade3": "#7e705a",
+    "shade4": "#b8afad",
+    "shade5": "#d0c8c6",
+    "shade6": "#e9e1dd",
+    "shade7": "#f5eeeb",
+    "accent0": "#cb6077",
+    "accent1": "#d28b71",
+    "accent2": "#f4bc87",
+    "accent3": "#beb55b",
+    "accent4": "#7bbda4",
+    "accent5": "#8ab3b5",
+    "accent6": "#a89bb9",
+    "accent7": "#bb9584"
+}

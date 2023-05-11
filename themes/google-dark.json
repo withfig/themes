@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "google-dark",
+    "displayName": "Google Dark",
+    "author": {
+        "name": "Seth Wright (http://sethawright.com)"
+    },
+    "shade0": "#1d1f21",
+    "shade1": "#282a2e",
+    "shade2": "#373b41",
+    "shade3": "#969896",
+    "shade4": "#b4b7b4",
+    "shade5": "#c5c8c6",
+    "shade6": "#e0e0e0",
+    "shade7": "#ffffff",
+    "accent0": "#CC342B",
+    "accent1": "#F96A38",
+    "accent2": "#FBA922",
+    "accent3": "#198844",
+    "accent4": "#3971ED",
+    "accent5": "#3971ED",
+    "accent6": "#A36AC7",
+    "accent7": "#3971ED"
+}

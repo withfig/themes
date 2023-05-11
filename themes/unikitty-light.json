@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "unikitty-light",
+    "displayName": "Unikitty Light",
+    "author": {
+        "name": "Josh W Lewis (@joshwlewis)"
+    },
+    "shade0": "#ffffff",
+    "shade1": "#e1e1e2",
+    "shade2": "#c4c3c5",
+    "shade3": "#a7a5a8",
+    "shade4": "#89878b",
+    "shade5": "#6c696e",
+    "shade6": "#4f4b51",
+    "shade7": "#322d34",
+    "accent0": "#d8137f",
+    "accent1": "#d65407",
+    "accent2": "#dc8a0e",
+    "accent3": "#17ad98",
+    "accent4": "#149bda",
+    "accent5": "#775dff",
+    "accent6": "#aa17e6",
+    "accent7": "#e013d0"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "catppuccin-macchiato",
+    "displayName": "Catppuccin Macchiato",
+    "author": {
+        "name": "https://github.com/catppuccin/catppuccin"
+    },
+    "shade0": "#24273a",
+    "shade1": "#1e2030",
+    "shade2": "#363a4f",
+    "shade3": "#494d64",
+    "shade4": "#5b6078",
+    "shade5": "#cad3f5",
+    "shade6": "#f4dbd6",
+    "shade7": "#b7bdf8",
+    "accent0": "#ed8796",
+    "accent1": "#f5a97f",
+    "accent2": "#eed49f",
+    "accent3": "#a6da95",
+    "accent4": "#8bd5ca",
+    "accent5": "#8aadf4",
+    "accent6": "#c6a0f6",
+    "accent7": "#f0c6c6"
+}

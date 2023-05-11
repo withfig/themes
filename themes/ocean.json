@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "ocean",
+    "displayName": "Ocean",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#2b303b",
+    "shade1": "#343d46",
+    "shade2": "#4f5b66",
+    "shade3": "#65737e",
+    "shade4": "#a7adba",
+    "shade5": "#c0c5ce",
+    "shade6": "#dfe1e8",
+    "shade7": "#eff1f5",
+    "accent0": "#bf616a",
+    "accent1": "#d08770",
+    "accent2": "#ebcb8b",
+    "accent3": "#a3be8c",
+    "accent4": "#96b5b4",
+    "accent5": "#8fa1b3",
+    "accent6": "#b48ead",
+    "accent7": "#ab7967"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "framer",
+    "displayName": "Framer",
+    "author": {
+        "name": "Framer (Maintained by Jesse Hoyos)"
+    },
+    "shade0": "#181818",
+    "shade1": "#151515",
+    "shade2": "#464646",
+    "shade3": "#747474",
+    "shade4": "#B9B9B9",
+    "shade5": "#D0D0D0",
+    "shade6": "#E8E8E8",
+    "shade7": "#EEEEEE",
+    "accent0": "#FD886B",
+    "accent1": "#FC4769",
+    "accent2": "#FECB6E",
+    "accent3": "#32CCDC",
+    "accent4": "#ACDDFD",
+    "accent5": "#20BCFC",
+    "accent6": "#BA8CFC",
+    "accent7": "#B15F4A"
+}

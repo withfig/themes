@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "isotope",
+    "displayName": "Isotope",
+    "author": {
+        "name": "Jan T. Sott"
+    },
+    "shade0": "#000000",
+    "shade1": "#404040",
+    "shade2": "#606060",
+    "shade3": "#808080",
+    "shade4": "#c0c0c0",
+    "shade5": "#d0d0d0",
+    "shade6": "#e0e0e0",
+    "shade7": "#ffffff",
+    "accent0": "#ff0000",
+    "accent1": "#ff9900",
+    "accent2": "#ff0099",
+    "accent3": "#33ff00",
+    "accent4": "#00ffff",
+    "accent5": "#0066ff",
+    "accent6": "#cc00ff",
+    "accent7": "#3300ff"
+}

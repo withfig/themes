@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "marrakesh",
+    "displayName": "Marrakesh",
+    "author": {
+        "name": "Alexandre Gavioli (http://github.com/Alexx2/)"
+    },
+    "shade0": "#201602",
+    "shade1": "#302e00",
+    "shade2": "#5f5b17",
+    "shade3": "#6c6823",
+    "shade4": "#86813b",
+    "shade5": "#948e48",
+    "shade6": "#ccc37a",
+    "shade7": "#faf0a5",
+    "accent0": "#c35359",
+    "accent1": "#b36144",
+    "accent2": "#a88339",
+    "accent3": "#18974e",
+    "accent4": "#75a738",
+    "accent5": "#477ca1",
+    "accent6": "#8868b3",
+    "accent7": "#b3588e"
+}

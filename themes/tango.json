@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tango",
+    "displayName": "Tango",
+    "author": {
+        "name": "@Schnouki, based on the Tango Desktop Project"
+    },
+    "shade0": "#2e3436",
+    "shade1": "#8ae234",
+    "shade2": "#fce94f",
+    "shade3": "#555753",
+    "shade4": "#729fcf",
+    "shade5": "#d3d7cf",
+    "shade6": "#ad7fa8",
+    "shade7": "#eeeeec",
+    "accent0": "#cc0000",
+    "accent1": "#ef2929",
+    "accent2": "#c4a000",
+    "accent3": "#4e9a06",
+    "accent4": "#06989a",
+    "accent5": "#3465a4",
+    "accent6": "#75507b",
+    "accent7": "#34e2e2"
+}

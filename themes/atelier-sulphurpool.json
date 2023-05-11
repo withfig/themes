@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-sulphurpool",
+    "displayName": "Atelier Sulphurpool",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#202746",
+    "shade1": "#293256",
+    "shade2": "#5e6687",
+    "shade3": "#6b7394",
+    "shade4": "#898ea4",
+    "shade5": "#979db4",
+    "shade6": "#dfe2f1",
+    "shade7": "#f5f7ff",
+    "accent0": "#c94922",
+    "accent1": "#c76b29",
+    "accent2": "#c08b30",
+    "accent3": "#ac9739",
+    "accent4": "#22a2c9",
+    "accent5": "#3d8fd1",
+    "accent6": "#6679cc",
+    "accent7": "#9c637a"
+}

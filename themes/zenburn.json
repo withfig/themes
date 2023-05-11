@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "zenburn",
+    "displayName": "Zenburn",
+    "author": {
+        "name": "elnawe"
+    },
+    "shade0": "#383838",
+    "shade1": "#404040",
+    "shade2": "#606060",
+    "shade3": "#6f6f6f",
+    "shade4": "#808080",
+    "shade5": "#dcdccc",
+    "shade6": "#c0c0c0",
+    "shade7": "#ffffff",
+    "accent0": "#dca3a3",
+    "accent1": "#dfaf8f",
+    "accent2": "#e0cf9f",
+    "accent3": "#5f7f5f",
+    "accent4": "#93e0e3",
+    "accent5": "#7cb8bb",
+    "accent6": "#dc8cc3",
+    "accent7": "#000000"
+}

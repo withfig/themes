@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "horizon-terminal-dark",
+    "displayName": "Horizon Terminal Dark",
+    "author": {
+        "name": "Michaël Ball (http://github.com/michael-ball/)"
+    },
+    "shade0": "#1C1E26",
+    "shade1": "#232530",
+    "shade2": "#2E303E",
+    "shade3": "#6F6F70",
+    "shade4": "#9DA0A2",
+    "shade5": "#CBCED0",
+    "shade6": "#DCDFE4",
+    "shade7": "#E3E6EE",
+    "accent0": "#E95678",
+    "accent1": "#FAB795",
+    "accent2": "#FAC29A",
+    "accent3": "#29D398",
+    "accent4": "#59E1E3",
+    "accent5": "#26BBD9",
+    "accent6": "#EE64AC",
+    "accent7": "#F09383"
+}

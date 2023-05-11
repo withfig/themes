@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tokyo-city-dark",
+    "displayName": "Tokyo City Dark",
+    "author": {
+        "name": "Michaël Ball"
+    },
+    "shade0": "#171D23",
+    "shade1": "#1D252C",
+    "shade2": "#28323A",
+    "shade3": "#526270",
+    "shade4": "#B7C5D3",
+    "shade5": "#D8E2EC",
+    "shade6": "#F6F6F8",
+    "shade7": "#FBFBFD",
+    "accent0": "#F7768E",
+    "accent1": "#FF9E64",
+    "accent2": "#B7C5D3",
+    "accent3": "#9ECE6A",
+    "accent4": "#89DDFF",
+    "accent5": "#7AA2F7",
+    "accent6": "#BB9AF7",
+    "accent7": "#BB9AF7"
+}

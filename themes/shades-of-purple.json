@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "shades-of-purple",
+    "displayName": "Shades of Purple",
+    "author": {
+        "name": "Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)."
+    },
+    "shade0": "#1e1e3f",
+    "shade1": "#43d426",
+    "shade2": "#f1d000",
+    "shade3": "#808080",
+    "shade4": "#6871ff",
+    "shade5": "#c7c7c7",
+    "shade6": "#ff77ff",
+    "shade7": "#ffffff",
+    "accent0": "#d90429",
+    "accent1": "#f92a1c",
+    "accent2": "#ffe700",
+    "accent3": "#3ad900",
+    "accent4": "#00c5c7",
+    "accent5": "#6943ff",
+    "accent6": "#ff2c70",
+    "accent7": "#79e8fb"
+}

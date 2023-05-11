@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-savanna",
+    "displayName": "Atelier Savanna",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#171c19",
+    "shade1": "#232a25",
+    "shade2": "#526057",
+    "shade3": "#5f6d64",
+    "shade4": "#78877d",
+    "shade5": "#87928a",
+    "shade6": "#dfe7e2",
+    "shade7": "#ecf4ee",
+    "accent0": "#b16139",
+    "accent1": "#9f713c",
+    "accent2": "#a07e3b",
+    "accent3": "#489963",
+    "accent4": "#1c9aa0",
+    "accent5": "#478c90",
+    "accent6": "#55859b",
+    "accent7": "#867469"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "classic-light",
+    "displayName": "Classic Light",
+    "author": {
+        "name": "Jason Heeris (http://heeris.id.au)"
+    },
+    "shade0": "#F5F5F5",
+    "shade1": "#E0E0E0",
+    "shade2": "#D0D0D0",
+    "shade3": "#B0B0B0",
+    "shade4": "#505050",
+    "shade5": "#303030",
+    "shade6": "#202020",
+    "shade7": "#151515",
+    "accent0": "#AC4142",
+    "accent1": "#D28445",
+    "accent2": "#F4BF75",
+    "accent3": "#90A959",
+    "accent4": "#75B5AA",
+    "accent5": "#6A9FB5",
+    "accent6": "#AA759F",
+    "accent7": "#8F5536"
+}

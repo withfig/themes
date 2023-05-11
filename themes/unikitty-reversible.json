@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "unikitty-reversible",
+    "displayName": "Unikitty Reversible",
+    "author": {
+        "name": "Josh W Lewis (@joshwlewis)"
+    },
+    "shade0": "#2e2a31",
+    "shade1": "#4b484e",
+    "shade2": "#69666b",
+    "shade3": "#878589",
+    "shade4": "#a5a3a6",
+    "shade5": "#c3c2c4",
+    "shade6": "#e1e0e1",
+    "shade7": "#ffffff",
+    "accent0": "#d8137f",
+    "accent1": "#d65407",
+    "accent2": "#dc8a0e",
+    "accent3": "#17ad98",
+    "accent4": "#149bda",
+    "accent5": "#7864fa",
+    "accent6": "#b33ce8",
+    "accent7": "#d41acd"
+}

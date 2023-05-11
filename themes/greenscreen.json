@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "greenscreen",
+    "displayName": "Green Screen",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#001100",
+    "shade1": "#003300",
+    "shade2": "#005500",
+    "shade3": "#007700",
+    "shade4": "#009900",
+    "shade5": "#00bb00",
+    "shade6": "#00dd00",
+    "shade7": "#00ff00",
+    "accent0": "#007700",
+    "accent1": "#009900",
+    "accent2": "#007700",
+    "accent3": "#00bb00",
+    "accent4": "#005500",
+    "accent5": "#009900",
+    "accent6": "#00bb00",
+    "accent7": "#005500"
+}

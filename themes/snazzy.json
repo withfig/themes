@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "snazzy",
+    "displayName": "Snazzy",
+    "author": {
+        "name": "Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)"
+    },
+    "shade0": "#282a36",
+    "shade1": "#34353e",
+    "shade2": "#43454f",
+    "shade3": "#78787e",
+    "shade4": "#a5a5a9",
+    "shade5": "#e2e4e5",
+    "shade6": "#eff0eb",
+    "shade7": "#f1f1f0",
+    "accent0": "#ff5c57",
+    "accent1": "#ff9f43",
+    "accent2": "#f3f99d",
+    "accent3": "#5af78e",
+    "accent4": "#9aedfe",
+    "accent5": "#57c7ff",
+    "accent6": "#ff6ac1",
+    "accent7": "#b2643c"
+}

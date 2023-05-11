@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "mexico-light",
+    "displayName": "Mexico Light",
+    "author": {
+        "name": "Sheldon Johnson"
+    },
+    "shade0": "#f8f8f8",
+    "shade1": "#e8e8e8",
+    "shade2": "#d8d8d8",
+    "shade3": "#b8b8b8",
+    "shade4": "#585858",
+    "shade5": "#383838",
+    "shade6": "#282828",
+    "shade7": "#181818",
+    "accent0": "#ab4642",
+    "accent1": "#dc9656",
+    "accent2": "#f79a0e",
+    "accent3": "#538947",
+    "accent4": "#4b8093",
+    "accent5": "#7cafc2",
+    "accent6": "#96609e",
+    "accent7": "#a16946"
+}

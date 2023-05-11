@@ -1,21 +1,25 @@
 {
-  "author": {
-    "name": "Ethan Schoonover",
-    "twitter": "@ethanschoonover",
-    "github": "altercation"
-  },
-  "version": "1.0",
-  "theme": {
-    "textColor": "#839496",
-    "backgroundColor": "#002b36",
-    "matchBackgroundColor": "#586e75",
-    "selection": {
-      "textColor": "#93a1a1",
-      "backgroundColor": "#268bd2"
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "solarized-dark",
+    "displayName": "Solarized Dark",
+    "author": {
+        "name": "Ethan Schoonover (modified by aramisgithub)"
     },
-    "description": {
-      "textColor": "#839496",
-      "borderColor": "#073642"
-    }
-  }
+    "shade0": "#002b36",
+    "shade1": "#073642",
+    "shade2": "#586e75",
+    "shade3": "#657b83",
+    "shade4": "#839496",
+    "shade5": "#93a1a1",
+    "shade6": "#eee8d5",
+    "shade7": "#fdf6e3",
+    "accent0": "#dc322f",
+    "accent1": "#cb4b16",
+    "accent2": "#b58900",
+    "accent3": "#859900",
+    "accent4": "#2aa198",
+    "accent5": "#268bd2",
+    "accent6": "#6c71c4",
+    "accent7": "#d33682"
 }

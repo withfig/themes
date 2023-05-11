@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "shadesmear-light",
+    "displayName": "ShadeSmear Light",
+    "author": {
+        "name": "Kyle Giammarco (http://kyle.giammar.co)"
+    },
+    "shade0": "#DBDBDB",
+    "shade1": "#E4E4E4",
+    "shade2": "#C0C0C0",
+    "shade3": "#4E4E4E",
+    "shade4": "#1C1C1C",
+    "shade5": "#232323",
+    "shade6": "#1C1C1C",
+    "shade7": "#E4E4E4",
+    "accent0": "#CC5450",
+    "accent1": "#A64270",
+    "accent2": "#307878",
+    "accent3": "#71983B",
+    "accent4": "#C57D42",
+    "accent5": "#376388",
+    "accent6": "#D7AB54",
+    "accent7": "#6D6D6D"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atlas",
+    "displayName": "Atlas",
+    "author": {
+        "name": "Alex Lende (https://ajlende.com)"
+    },
+    "shade0": "#002635",
+    "shade1": "#00384d",
+    "shade2": "#517F8D",
+    "shade3": "#6C8B91",
+    "shade4": "#869696",
+    "shade5": "#a1a19a",
+    "shade6": "#e6e6dc",
+    "shade7": "#fafaf8",
+    "accent0": "#ff5a67",
+    "accent1": "#f08e48",
+    "accent2": "#ffcc1b",
+    "accent3": "#7fc06e",
+    "accent4": "#14747e",
+    "accent5": "#5dd7b9",
+    "accent6": "#9a70a4",
+    "accent7": "#c43060"
+}

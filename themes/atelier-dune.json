@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-dune",
+    "displayName": "Atelier Dune",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#20201d",
+    "shade1": "#292824",
+    "shade2": "#6e6b5e",
+    "shade3": "#7d7a68",
+    "shade4": "#999580",
+    "shade5": "#a6a28c",
+    "shade6": "#e8e4cf",
+    "shade7": "#fefbec",
+    "accent0": "#d73737",
+    "accent1": "#b65611",
+    "accent2": "#ae9513",
+    "accent3": "#60ac39",
+    "accent4": "#1fad83",
+    "accent5": "#6684e1",
+    "accent6": "#b854d4",
+    "accent7": "#d43552"
+}

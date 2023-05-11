@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "edge-light",
+    "displayName": "Edge Light",
+    "author": {
+        "name": "cjayross (https://github.com/cjayross)"
+    },
+    "shade0": "#fafafa",
+    "shade1": "#7c9f4b",
+    "shade2": "#d69822",
+    "shade3": "#5e646f",
+    "shade4": "#6587bf",
+    "shade5": "#5e646f",
+    "shade6": "#b870ce",
+    "shade7": "#5e646f",
+    "accent0": "#db7070",
+    "accent1": "#db7070",
+    "accent2": "#d69822",
+    "accent3": "#7c9f4b",
+    "accent4": "#509c93",
+    "accent5": "#6587bf",
+    "accent6": "#b870ce",
+    "accent7": "#509c93"
+}

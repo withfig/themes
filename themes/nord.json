@@ -1,22 +1,25 @@
 {
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "nord",
+    "displayName": "Nord",
     "author": {
-        "name": "Arctic Ice Studio & Sven Greb",
-        "twitter": "@arcticicestudio",
-        "github": "arcticicestudio"
+        "name": "arcticicestudio"
     },
-    "version": "1.0",
-    "theme": {
-      "textColor": "#d8dde8",
-      "backgroundColor": "#2e333f",
-      "matchBackgroundColor": "#6272a4",
-      "selection": {
-        "textColor": "#d8dde8",
-        "backgroundColor": "#4c5569"
-      },
-      "description": {
-        "textColor": "#e5e8ef",
-        "borderColor": "#434b5d"
-      }
-    }
-  }
-  
+    "shade0": "#2E3440",
+    "shade1": "#3B4252",
+    "shade2": "#434C5E",
+    "shade3": "#4C566A",
+    "shade4": "#D8DEE9",
+    "shade5": "#E5E9F0",
+    "shade6": "#ECEFF4",
+    "shade7": "#8FBCBB",
+    "accent0": "#BF616A",
+    "accent1": "#D08770",
+    "accent2": "#EBCB8B",
+    "accent3": "#A3BE8C",
+    "accent4": "#88C0D0",
+    "accent5": "#81A1C1",
+    "accent6": "#B48EAD",
+    "accent7": "#5E81AC"
+}

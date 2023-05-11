@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-heath",
+    "displayName": "Atelier Heath",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#1b181b",
+    "shade1": "#292329",
+    "shade2": "#695d69",
+    "shade3": "#776977",
+    "shade4": "#9e8f9e",
+    "shade5": "#ab9bab",
+    "shade6": "#d8cad8",
+    "shade7": "#f7f3f7",
+    "accent0": "#ca402b",
+    "accent1": "#a65926",
+    "accent2": "#bb8a35",
+    "accent3": "#918b3b",
+    "accent4": "#159393",
+    "accent5": "#516aec",
+    "accent6": "#7b59c0",
+    "accent7": "#cc33cc"
+}

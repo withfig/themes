@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "gruvbox-material-dark-soft",
+    "displayName": "Gruvbox Material Dark, Soft",
+    "author": {
+        "name": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)"
+    },
+    "shade0": "#32302f",
+    "shade1": "#3c3836",
+    "shade2": "#5a524c",
+    "shade3": "#7c6f64",
+    "shade4": "#bdae93",
+    "shade5": "#ddc7a1",
+    "shade6": "#ebdbb2",
+    "shade7": "#fbf1c7",
+    "accent0": "#ea6962",
+    "accent1": "#e78a4e",
+    "accent2": "#d8a657",
+    "accent3": "#a9b665",
+    "accent4": "#89b482",
+    "accent5": "#7daea3",
+    "accent6": "#d3869b",
+    "accent7": "#bd6f3e"
+}

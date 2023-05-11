@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "one-light",
+    "displayName": "One Light",
+    "author": {
+        "name": "Daniel Pfeifer (http://github.com/purpleKarrot)"
+    },
+    "shade0": "#fafafa",
+    "shade1": "#f0f0f1",
+    "shade2": "#e5e5e6",
+    "shade3": "#a0a1a7",
+    "shade4": "#696c77",
+    "shade5": "#383a42",
+    "shade6": "#202227",
+    "shade7": "#090a0b",
+    "accent0": "#ca1243",
+    "accent1": "#d75f00",
+    "accent2": "#c18401",
+    "accent3": "#50a14f",
+    "accent4": "#0184bc",
+    "accent5": "#4078f2",
+    "accent6": "#a626a4",
+    "accent7": "#986801"
+}

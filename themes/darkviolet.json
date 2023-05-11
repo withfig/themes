@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "darkviolet",
+    "displayName": "Dark Violet",
+    "author": {
+        "name": "ruler501 (https://github.com/ruler501/base16-darkviolet)"
+    },
+    "shade0": "#000000",
+    "shade1": "#231a40",
+    "shade2": "#432d59",
+    "shade3": "#593380",
+    "shade4": "#00ff00",
+    "shade5": "#b08ae6",
+    "shade6": "#9045e6",
+    "shade7": "#a366ff",
+    "accent0": "#a82ee6",
+    "accent1": "#bb66cc",
+    "accent2": "#f29df2",
+    "accent3": "#4595e6",
+    "accent4": "#40dfff",
+    "accent5": "#4136d9",
+    "accent6": "#7e5ce6",
+    "accent7": "#a886bf"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "hopscotch",
+    "displayName": "Hopscotch",
+    "author": {
+        "name": "Jan T. Sott"
+    },
+    "shade0": "#322931",
+    "shade1": "#433b42",
+    "shade2": "#5c545b",
+    "shade3": "#797379",
+    "shade4": "#989498",
+    "shade5": "#b9b5b8",
+    "shade6": "#d5d3d5",
+    "shade7": "#ffffff",
+    "accent0": "#dd464c",
+    "accent1": "#fd8b19",
+    "accent2": "#fdcc59",
+    "accent3": "#8fc13e",
+    "accent4": "#149b93",
+    "accent5": "#1290bf",
+    "accent6": "#c85e7c",
+    "accent7": "#b33508"
+}

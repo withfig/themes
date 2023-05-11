@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "katy",
+    "displayName": "Katy",
+    "author": {
+        "name": "George Essig (https://github.com/gessig)"
+    },
+    "shade0": "#292d3e",
+    "shade1": "#444267",
+    "shade2": "#5c598b",
+    "shade3": "#676e95",
+    "shade4": "#8796b0",
+    "shade5": "#959dcb",
+    "shade6": "#959dcb",
+    "shade7": "#ffffff",
+    "accent0": "#6e98e1",
+    "accent1": "#f78c6c",
+    "accent2": "#e0a557",
+    "accent3": "#78c06e",
+    "accent4": "#83b7e5",
+    "accent5": "#82aaff",
+    "accent6": "#c792ea",
+    "accent7": "#ff5370"
+}

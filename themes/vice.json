@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "vice",
+    "displayName": "vice",
+    "author": {
+        "name": "Thomas Leon Highbaugh thighbaugh@zoho.com"
+    },
+    "shade0": "#17191E",
+    "shade1": "#22262d",
+    "shade2": "#3c3f4c",
+    "shade3": "#383a47",
+    "shade4": "#555e70",
+    "shade5": "#8b9cbe",
+    "shade6": "#B2BFD9",
+    "shade7": "#f4f4f7",
+    "accent0": "#ff29a8",
+    "accent1": "#85ffe0",
+    "accent2": "#f0ffaa",
+    "accent3": "#0badff",
+    "accent4": "#8265ff",
+    "accent5": "#00eaff",
+    "accent6": "#00f6d9",
+    "accent7": "#ff3d81"
+}

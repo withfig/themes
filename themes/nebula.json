@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "nebula",
+    "displayName": "Nebula",
+    "author": {
+        "name": "Gabriel Fontes (https://github.com/Misterio77)"
+    },
+    "shade0": "#22273b",
+    "shade1": "#414f60",
+    "shade2": "#5a8380",
+    "shade3": "#6e6f72",
+    "shade4": "#87888b",
+    "shade5": "#a4a6a9",
+    "shade6": "#c7c9cd",
+    "shade7": "#8dbdaa",
+    "accent0": "#777abc",
+    "accent1": "#94929e",
+    "accent2": "#4f9062",
+    "accent3": "#6562a8",
+    "accent4": "#226f68",
+    "accent5": "#4d6bb6",
+    "accent6": "#716cae",
+    "accent7": "#8c70a7"
+}

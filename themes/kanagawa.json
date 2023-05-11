@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "kanagawa",
+    "displayName": "Kanagawa",
+    "author": {
+        "name": "Tommaso Laurenzi (https://github.com/rebelot)"
+    },
+    "shade0": "#1F1F28",
+    "shade1": "#16161D",
+    "shade2": "#223249",
+    "shade3": "#54546D",
+    "shade4": "#727169",
+    "shade5": "#DCD7BA",
+    "shade6": "#C8C093",
+    "shade7": "#717C7C",
+    "accent0": "#C34043",
+    "accent1": "#FFA066",
+    "accent2": "#C0A36E",
+    "accent3": "#76946A",
+    "accent4": "#6A9589",
+    "accent5": "#7E9CD8",
+    "accent6": "#957FB8",
+    "accent7": "#D27E99"
+}

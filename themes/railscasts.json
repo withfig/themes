@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "railscasts",
+    "displayName": "Railscasts",
+    "author": {
+        "name": "Ryan Bates (http://railscasts.com)"
+    },
+    "shade0": "#2b2b2b",
+    "shade1": "#272935",
+    "shade2": "#3a4055",
+    "shade3": "#5a647e",
+    "shade4": "#d4cfc9",
+    "shade5": "#e6e1dc",
+    "shade6": "#f4f1ed",
+    "shade7": "#f9f7f3",
+    "accent0": "#da4939",
+    "accent1": "#cc7833",
+    "accent2": "#ffc66d",
+    "accent3": "#a5c261",
+    "accent4": "#519f50",
+    "accent5": "#6d9cbe",
+    "accent6": "#b6b3eb",
+    "accent7": "#bc9458"
+}

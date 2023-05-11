@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "seti",
+    "displayName": "Seti UI",
+    "author": {
+        "name": ""
+    },
+    "shade0": "#151718",
+    "shade1": "#282a2b",
+    "shade2": "#3B758C",
+    "shade3": "#41535B",
+    "shade4": "#43a5d5",
+    "shade5": "#d6d6d6",
+    "shade6": "#eeeeee",
+    "shade7": "#ffffff",
+    "accent0": "#Cd3f45",
+    "accent1": "#db7b55",
+    "accent2": "#e6cd69",
+    "accent3": "#9fca56",
+    "accent4": "#55dbbe",
+    "accent5": "#55b5db",
+    "accent6": "#a074c4",
+    "accent7": "#8a553f"
+}

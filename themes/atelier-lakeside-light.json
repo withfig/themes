@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-lakeside-light",
+    "displayName": "Atelier Lakeside Light",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#ebf8ff",
+    "shade1": "#c1e4f6",
+    "shade2": "#7ea2b4",
+    "shade3": "#7195a8",
+    "shade4": "#5a7b8c",
+    "shade5": "#516d7b",
+    "shade6": "#1f292e",
+    "shade7": "#161b1d",
+    "accent0": "#d22d72",
+    "accent1": "#935c25",
+    "accent2": "#8a8a0f",
+    "accent3": "#568c3b",
+    "accent4": "#2d8f6f",
+    "accent5": "#257fad",
+    "accent6": "#6b6bb8",
+    "accent7": "#b72dd2"
+}

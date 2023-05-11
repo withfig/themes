@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "hardcore",
+    "displayName": "Hardcore",
+    "author": {
+        "name": "Chris Caller"
+    },
+    "shade0": "#212121",
+    "shade1": "#303030",
+    "shade2": "#353535",
+    "shade3": "#4A4A4A",
+    "shade4": "#707070",
+    "shade5": "#cdcdcd",
+    "shade6": "#e5e5e5",
+    "shade7": "#ffffff",
+    "accent0": "#f92672",
+    "accent1": "#fd971f",
+    "accent2": "#e6db74",
+    "accent3": "#a6e22e",
+    "accent4": "#708387",
+    "accent5": "#66d9ef",
+    "accent6": "#9e6ffe",
+    "accent7": "#e8b882"
+}

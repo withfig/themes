@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "equilibrium-gray-light",
+    "displayName": "Equilibrium Gray Light",
+    "author": {
+        "name": "Carlo Abelli"
+    },
+    "shade0": "#f1f1f1",
+    "shade1": "#e2e2e2",
+    "shade2": "#d4d4d4",
+    "shade3": "#777777",
+    "shade4": "#5e5e5e",
+    "shade5": "#474747",
+    "shade6": "#303030",
+    "shade7": "#1b1b1b",
+    "accent0": "#d02023",
+    "accent1": "#bf3e05",
+    "accent2": "#9d6f00",
+    "accent3": "#637200",
+    "accent4": "#007a72",
+    "accent5": "#0073b5",
+    "accent6": "#4e66b6",
+    "accent7": "#c42775"
+}

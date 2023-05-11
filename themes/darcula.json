@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "darcula",
+    "displayName": "Darcula",
+    "author": {
+        "name": "jetbrains"
+    },
+    "shade0": "#2b2b2b",
+    "shade1": "#323232",
+    "shade2": "#323232",
+    "shade3": "#606366",
+    "shade4": "#a4a3a3",
+    "shade5": "#a9b7c6",
+    "shade6": "#ffc66d",
+    "shade7": "#ffffff",
+    "accent0": "#4eade5",
+    "accent1": "#689757",
+    "accent2": "#bbb529",
+    "accent3": "#6a8759",
+    "accent4": "#629755",
+    "accent5": "#9876aa",
+    "accent6": "#cc7832",
+    "accent7": "#808080"
+}

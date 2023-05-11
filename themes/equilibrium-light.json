@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "equilibrium-light",
+    "displayName": "Equilibrium Light",
+    "author": {
+        "name": "Carlo Abelli"
+    },
+    "shade0": "#f5f0e7",
+    "shade1": "#e7e2d9",
+    "shade2": "#d8d4cb",
+    "shade3": "#73777f",
+    "shade4": "#5a5f66",
+    "shade5": "#43474e",
+    "shade6": "#2c3138",
+    "shade7": "#181c22",
+    "accent0": "#d02023",
+    "accent1": "#bf3e05",
+    "accent2": "#9d6f00",
+    "accent3": "#637200",
+    "accent4": "#007a72",
+    "accent5": "#0073b5",
+    "accent6": "#4e66b6",
+    "accent7": "#c42775"
+}

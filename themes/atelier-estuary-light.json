@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-estuary-light",
+    "displayName": "Atelier Estuary Light",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#f4f3ec",
+    "shade1": "#e7e6df",
+    "shade2": "#929181",
+    "shade3": "#878573",
+    "shade4": "#6c6b5a",
+    "shade5": "#5f5e4e",
+    "shade6": "#302f27",
+    "shade7": "#22221b",
+    "accent0": "#ba6236",
+    "accent1": "#ae7313",
+    "accent2": "#a5980d",
+    "accent3": "#7d9726",
+    "accent4": "#5b9d48",
+    "accent5": "#36a166",
+    "accent6": "#5f9182",
+    "accent7": "#9d6c7c"
+}

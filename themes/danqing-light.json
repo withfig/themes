@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "danqing-light",
+    "displayName": "DanQing Light",
+    "author": {
+        "name": "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)"
+    },
+    "shade0": "#fcfefd",
+    "shade1": "#ecf6f2",
+    "shade2": "#e0f0eF",
+    "shade3": "#cad8d2",
+    "shade4": "#9da8a3",
+    "shade5": "#5a605d",
+    "shade6": "#434846",
+    "shade7": "#2d302f",
+    "accent0": "#F9906F",
+    "accent1": "#B38A61",
+    "accent2": "#F0C239",
+    "accent3": "#8AB361",
+    "accent4": "#30DFF3",
+    "accent5": "#B0A4E3",
+    "accent6": "#CCA4E3",
+    "accent7": "#CA6924"
+}

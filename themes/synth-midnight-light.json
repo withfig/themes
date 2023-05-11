@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "synth-midnight-light",
+    "displayName": "Synth Midnight Terminal Light",
+    "author": {
+        "name": "Michaël Ball (http://github.com/michael-ball/)"
+    },
+    "shade0": "#dddfe0",
+    "shade1": "#cfd1d2",
+    "shade2": "#c1c3c4",
+    "shade3": "#a3a5a6",
+    "shade4": "#474849",
+    "shade5": "#28292a",
+    "shade6": "#1a1b1c",
+    "shade7": "#050608",
+    "accent0": "#b53b50",
+    "accent1": "#ea770d",
+    "accent2": "#c9d364",
+    "accent3": "#06ea61",
+    "accent4": "#42fff9",
+    "accent5": "#03aeff",
+    "accent6": "#ea5ce2",
+    "accent7": "#cd6320"
+}

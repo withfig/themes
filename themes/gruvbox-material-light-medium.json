@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "gruvbox-material-light-medium",
+    "displayName": "Gruvbox Material Light, Medium",
+    "author": {
+        "name": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)"
+    },
+    "shade0": "#fbf1c7",
+    "shade1": "#f2e5bc",
+    "shade2": "#d5c4a1",
+    "shade3": "#bdae93",
+    "shade4": "#665c54",
+    "shade5": "#654735",
+    "shade6": "#3c3836",
+    "shade7": "#282828",
+    "accent0": "#c14a4a",
+    "accent1": "#c35e0a",
+    "accent2": "#b47109",
+    "accent3": "#6c782e",
+    "accent4": "#4c7a5d",
+    "accent5": "#45707a",
+    "accent6": "#945e80",
+    "accent7": "#e78a4e"
+}

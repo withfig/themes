@@ -1,0 +1,11 @@
+{
+  "name": "fig-themes",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "gen": "base16 build base16"
+  },
+  "devDependencies": {
+    "base16-builder-node": "^1.2.1"
+  }
+}

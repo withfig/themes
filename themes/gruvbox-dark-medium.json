@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "gruvbox-dark-medium",
+    "displayName": "Gruvbox dark, medium",
+    "author": {
+        "name": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)"
+    },
+    "shade0": "#282828",
+    "shade1": "#3c3836",
+    "shade2": "#504945",
+    "shade3": "#665c54",
+    "shade4": "#bdae93",
+    "shade5": "#d5c4a1",
+    "shade6": "#ebdbb2",
+    "shade7": "#fbf1c7",
+    "accent0": "#fb4934",
+    "accent1": "#fe8019",
+    "accent2": "#fabd2f",
+    "accent3": "#b8bb26",
+    "accent4": "#8ec07c",
+    "accent5": "#83a598",
+    "accent6": "#d3869b",
+    "accent7": "#d65d0e"
+}

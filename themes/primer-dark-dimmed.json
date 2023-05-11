@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "primer-dark-dimmed",
+    "displayName": "Primer Dark Dimmed",
+    "author": {
+        "name": "Jimmy Lin"
+    },
+    "shade0": "#1c2128",
+    "shade1": "#373e47",
+    "shade2": "#444c56",
+    "shade3": "#545d68",
+    "shade4": "#768390",
+    "shade5": "#909dab",
+    "shade6": "#adbac7",
+    "shade7": "#cdd9e5",
+    "accent0": "#f47067",
+    "accent1": "#e0823d",
+    "accent2": "#c69026",
+    "accent3": "#57ab5a",
+    "accent4": "#96d0ff",
+    "accent5": "#539bf5",
+    "accent6": "#e275ad",
+    "accent7": "#ae5622"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "rose-pine-moon",
+    "displayName": "Rosé Pine Moon",
+    "author": {
+        "name": "Emilia Dunfelt <sayhi@dunfelt.se>"
+    },
+    "shade0": "#232136",
+    "shade1": "#2a273f",
+    "shade2": "#393552",
+    "shade3": "#59546d",
+    "shade4": "#817c9c",
+    "shade5": "#e0def4",
+    "shade6": "#f5f5f7",
+    "shade7": "#d9d7e1",
+    "accent0": "#ecebf0",
+    "accent1": "#eb6f92",
+    "accent2": "#f6c177",
+    "accent3": "#ea9a97",
+    "accent4": "#3e8fb0",
+    "accent5": "#9ccfd8",
+    "accent6": "#c4a7e7",
+    "accent7": "#b9b9bc"
+}

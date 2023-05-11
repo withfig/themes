@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tokyodark-terminal",
+    "displayName": "Tokyodark Terminal",
+    "author": {
+        "name": "Tiagovla (https://github.com/tiagovla/)"
+    },
+    "shade0": "#11121d",
+    "shade1": "#1A1B2A",
+    "shade2": "#212234",
+    "shade3": "#282c34",
+    "shade4": "#4a5057",
+    "shade5": "#a0a8cd",
+    "shade6": "#a0a8cd",
+    "shade7": "#a0a8cd",
+    "accent0": "#ee6d85",
+    "accent1": "#f6955b",
+    "accent2": "#d7a65f",
+    "accent3": "#95c561",
+    "accent4": "#38a89d",
+    "accent5": "#7199ee",
+    "accent6": "#a485dd",
+    "accent7": "#773440"
+}

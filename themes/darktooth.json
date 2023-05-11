@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "darktooth",
+    "displayName": "Darktooth",
+    "author": {
+        "name": "Jason Milkins (https://github.com/jasonm23)"
+    },
+    "shade0": "#1D2021",
+    "shade1": "#32302F",
+    "shade2": "#504945",
+    "shade3": "#665C54",
+    "shade4": "#928374",
+    "shade5": "#A89984",
+    "shade6": "#D5C4A1",
+    "shade7": "#FDF4C1",
+    "accent0": "#FB543F",
+    "accent1": "#FE8625",
+    "accent2": "#FAC03B",
+    "accent3": "#95C085",
+    "accent4": "#8BA59B",
+    "accent5": "#0D6678",
+    "accent6": "#8F4673",
+    "accent7": "#A87322"
+}

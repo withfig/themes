@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "edge-dark",
+    "displayName": "Edge Dark",
+    "author": {
+        "name": "cjayross (https://github.com/cjayross)"
+    },
+    "shade0": "#262729",
+    "shade1": "#88909f",
+    "shade2": "#b7bec9",
+    "shade3": "#3e4249",
+    "shade4": "#73b3e7",
+    "shade5": "#b7bec9",
+    "shade6": "#d390e7",
+    "shade7": "#3e4249",
+    "accent0": "#e77171",
+    "accent1": "#e77171",
+    "accent2": "#dbb774",
+    "accent3": "#a1bf78",
+    "accent4": "#5ebaa5",
+    "accent5": "#73b3e7",
+    "accent6": "#d390e7",
+    "accent7": "#5ebaa5"
+}

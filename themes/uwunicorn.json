@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "uwunicorn",
+    "displayName": "UwUnicorn",
+    "author": {
+        "name": "Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)"
+    },
+    "shade0": "#241b26",
+    "shade1": "#2f2a3f",
+    "shade2": "#46354a",
+    "shade3": "#6c3cb2",
+    "shade4": "#7e5f83",
+    "shade5": "#eed5d9",
+    "shade6": "#d9c2c6",
+    "shade7": "#e4ccd0",
+    "accent0": "#877bb6",
+    "accent1": "#de5b44",
+    "accent2": "#a84a73",
+    "accent3": "#c965bf",
+    "accent4": "#9c5fce",
+    "accent5": "#6a9eb5",
+    "accent6": "#78a38f",
+    "accent7": "#a3a079"
+}

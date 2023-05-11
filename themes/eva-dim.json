@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "eva-dim",
+    "displayName": "Eva Dim",
+    "author": {
+        "name": "kjakapat (https://github.com/kjakapat)"
+    },
+    "shade0": "#2a3b4d",
+    "shade1": "#3d566f",
+    "shade2": "#4b6988",
+    "shade3": "#55799c",
+    "shade4": "#7e90a3",
+    "shade5": "#9fa2a6",
+    "shade6": "#d6d7d9",
+    "shade7": "#ffffff",
+    "accent0": "#c4676c",
+    "accent1": "#ff9966",
+    "accent2": "#cfd05d",
+    "accent3": "#5de561",
+    "accent4": "#4b8f77",
+    "accent5": "#1ae1dc",
+    "accent6": "#9c6cd3",
+    "accent7": "#bb64a9"
+}

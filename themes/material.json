@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "material",
+    "displayName": "Material",
+    "author": {
+        "name": "Nate Peterson"
+    },
+    "shade0": "#263238",
+    "shade1": "#2E3C43",
+    "shade2": "#314549",
+    "shade3": "#546E7A",
+    "shade4": "#B2CCD6",
+    "shade5": "#EEFFFF",
+    "shade6": "#EEFFFF",
+    "shade7": "#FFFFFF",
+    "accent0": "#F07178",
+    "accent1": "#F78C6C",
+    "accent2": "#FFCB6B",
+    "accent3": "#C3E88D",
+    "accent4": "#89DDFF",
+    "accent5": "#82AAFF",
+    "accent6": "#C792EA",
+    "accent7": "#FF5370"
+}

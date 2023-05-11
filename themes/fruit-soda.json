@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "fruit-soda",
+    "displayName": "Fruit Soda",
+    "author": {
+        "name": "jozip"
+    },
+    "shade0": "#f1ecf1",
+    "shade1": "#e0dee0",
+    "shade2": "#d8d5d5",
+    "shade3": "#b5b4b6",
+    "shade4": "#979598",
+    "shade5": "#515151",
+    "shade6": "#474545",
+    "shade7": "#2d2c2c",
+    "accent0": "#fe3e31",
+    "accent1": "#fe6d08",
+    "accent2": "#f7e203",
+    "accent3": "#47f74c",
+    "accent4": "#0f9cfd",
+    "accent5": "#2931df",
+    "accent6": "#611fce",
+    "accent7": "#b16f40"
+}

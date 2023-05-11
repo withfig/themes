@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "outrun-dark",
+    "displayName": "Outrun Dark",
+    "author": {
+        "name": "Hugo Delahousse (http://github.com/hugodelahousse/)"
+    },
+    "shade0": "#00002A",
+    "shade1": "#20204A",
+    "shade2": "#30305A",
+    "shade3": "#50507A",
+    "shade4": "#B0B0DA",
+    "shade5": "#D0D0FA",
+    "shade6": "#E0E0FF",
+    "shade7": "#F5F5FF",
+    "accent0": "#FF4242",
+    "accent1": "#FC8D28",
+    "accent2": "#F3E877",
+    "accent3": "#59F176",
+    "accent4": "#0EF0F0",
+    "accent5": "#66B0FF",
+    "accent6": "#F10596",
+    "accent7": "#F003EF"
+}

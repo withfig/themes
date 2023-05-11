@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "oceanicnext",
+    "displayName": "OceanicNext",
+    "author": {
+        "name": "https://github.com/voronianski/oceanic-next-color-scheme"
+    },
+    "shade0": "#1B2B34",
+    "shade1": "#343D46",
+    "shade2": "#4F5B66",
+    "shade3": "#65737E",
+    "shade4": "#A7ADBA",
+    "shade5": "#C0C5CE",
+    "shade6": "#CDD3DE",
+    "shade7": "#D8DEE9",
+    "accent0": "#EC5f67",
+    "accent1": "#F99157",
+    "accent2": "#FAC863",
+    "accent3": "#99C794",
+    "accent4": "#5FB3B3",
+    "accent5": "#6699CC",
+    "accent6": "#C594C5",
+    "accent7": "#AB7967"
+}

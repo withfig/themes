@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "standardized-light",
+    "displayName": "standardized-light",
+    "author": {
+        "name": "ali (https://github.com/ali-githb/base16-standardized-scheme)"
+    },
+    "shade0": "#ffffff",
+    "shade1": "#eeeeee",
+    "shade2": "#cccccc",
+    "shade3": "#767676",
+    "shade4": "#767676",
+    "shade5": "#444444",
+    "shade6": "#333333",
+    "shade7": "#222222",
+    "accent0": "#d03e3e",
+    "accent1": "#d7691d",
+    "accent2": "#ad8200",
+    "accent3": "#31861f",
+    "accent4": "#00998f",
+    "accent5": "#3173c5",
+    "accent6": "#9e57c2",
+    "accent7": "#895025"
+}

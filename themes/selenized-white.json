@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "selenized-white",
+    "displayName": "selenized-white",
+    "author": {
+        "name": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali"
+    },
+    "shade0": "#ffffff",
+    "shade1": "#ebebeb",
+    "shade2": "#cdcdcd",
+    "shade3": "#878787",
+    "shade4": "#878787",
+    "shade5": "#474747",
+    "shade6": "#282828",
+    "shade7": "#282828",
+    "accent0": "#bf0000",
+    "accent1": "#ba3700",
+    "accent2": "#af8500",
+    "accent3": "#008400",
+    "accent4": "#009a8a",
+    "accent5": "#0054cf",
+    "accent6": "#6b40c3",
+    "accent7": "#dd0f9d"
+}

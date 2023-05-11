@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "blueforest",
+    "displayName": "Blue Forest",
+    "author": {
+        "name": "alonsodomin (https://github.com/alonsodomin)"
+    },
+    "shade0": "#141F2E",
+    "shade1": "#1e5c1e",
+    "shade2": "#273e5c",
+    "shade3": "#a0ffa0",
+    "shade4": "#1e5c1e",
+    "shade5": "#FFCC33",
+    "shade6": "#91CCFF",
+    "shade7": "#375780",
+    "accent0": "#fffab1",
+    "accent1": "#FF8080",
+    "accent2": "#91CCFF",
+    "accent3": "#80ff80",
+    "accent4": "#80ff80",
+    "accent5": "#a2cff5",
+    "accent6": "#0099FF",
+    "accent7": "#e7e7e7"
+}

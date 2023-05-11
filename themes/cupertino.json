@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "cupertino",
+    "displayName": "Cupertino",
+    "author": {
+        "name": "Defman21"
+    },
+    "shade0": "#ffffff",
+    "shade1": "#c0c0c0",
+    "shade2": "#c0c0c0",
+    "shade3": "#808080",
+    "shade4": "#808080",
+    "shade5": "#404040",
+    "shade6": "#404040",
+    "shade7": "#5e5e5e",
+    "accent0": "#c41a15",
+    "accent1": "#eb8500",
+    "accent2": "#826b28",
+    "accent3": "#007400",
+    "accent4": "#318495",
+    "accent5": "#0000ff",
+    "accent6": "#a90d91",
+    "accent7": "#826b28"
+}

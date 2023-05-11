@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "phd",
+    "displayName": "PhD",
+    "author": {
+        "name": "Hennig Hasemann (http://leetless.de/vim.html)"
+    },
+    "shade0": "#061229",
+    "shade1": "#2a3448",
+    "shade2": "#4d5666",
+    "shade3": "#717885",
+    "shade4": "#9a99a3",
+    "shade5": "#b8bbc2",
+    "shade6": "#dbdde0",
+    "shade7": "#ffffff",
+    "accent0": "#d07346",
+    "accent1": "#f0a000",
+    "accent2": "#fbd461",
+    "accent3": "#99bf52",
+    "accent4": "#72b9bf",
+    "accent5": "#5299bf",
+    "accent6": "#9989cc",
+    "accent7": "#b08060"
+}

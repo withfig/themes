@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "sagelight",
+    "displayName": "Sagelight",
+    "author": {
+        "name": "Carter Veldhuizen"
+    },
+    "shade0": "#f8f8f8",
+    "shade1": "#e8e8e8",
+    "shade2": "#d8d8d8",
+    "shade3": "#b8b8b8",
+    "shade4": "#585858",
+    "shade5": "#383838",
+    "shade6": "#282828",
+    "shade7": "#181818",
+    "accent0": "#fa8480",
+    "accent1": "#ffaa61",
+    "accent2": "#ffdc61",
+    "accent3": "#a0d2c8",
+    "accent4": "#a2d6f5",
+    "accent5": "#a0a7d2",
+    "accent6": "#c8a0d2",
+    "accent7": "#d2b2a0"
+}

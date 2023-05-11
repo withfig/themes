@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "da-one-paper",
+    "displayName": "Da One Paper",
+    "author": {
+        "name": "NNB (https://github.com/NNBnh)"
+    },
+    "shade0": "#faf0dc",
+    "shade1": "#c8c8c8",
+    "shade2": "#888888",
+    "shade3": "#585858",
+    "shade4": "#282828",
+    "shade5": "#181818",
+    "shade6": "#000000",
+    "shade7": "#000000",
+    "accent0": "#de5d6e",
+    "accent1": "#ff9470",
+    "accent2": "#b3684f",
+    "accent3": "#76a85d",
+    "accent4": "#64b5a7",
+    "accent5": "#5890f8",
+    "accent6": "#c173d1",
+    "accent7": "#b3684f"
+}

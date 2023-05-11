@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-savanna-light",
+    "displayName": "Atelier Savanna Light",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#ecf4ee",
+    "shade1": "#dfe7e2",
+    "shade2": "#87928a",
+    "shade3": "#78877d",
+    "shade4": "#5f6d64",
+    "shade5": "#526057",
+    "shade6": "#232a25",
+    "shade7": "#171c19",
+    "accent0": "#b16139",
+    "accent1": "#9f713c",
+    "accent2": "#a07e3b",
+    "accent3": "#489963",
+    "accent4": "#1c9aa0",
+    "accent5": "#478c90",
+    "accent6": "#55859b",
+    "accent7": "#867469"
+}

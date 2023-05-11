@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "cupcake",
+    "displayName": "Cupcake",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#fbf1f2",
+    "shade1": "#f2f1f4",
+    "shade2": "#d8d5dd",
+    "shade3": "#bfb9c6",
+    "shade4": "#a59daf",
+    "shade5": "#8b8198",
+    "shade6": "#72677E",
+    "shade7": "#585062",
+    "accent0": "#D57E85",
+    "accent1": "#EBB790",
+    "accent2": "#DCB16C",
+    "accent3": "#A3B367",
+    "accent4": "#69A9A7",
+    "accent5": "#7297B9",
+    "accent6": "#BB99B4",
+    "accent7": "#BAA58C"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-lakeside",
+    "displayName": "Atelier Lakeside",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#161b1d",
+    "shade1": "#1f292e",
+    "shade2": "#516d7b",
+    "shade3": "#5a7b8c",
+    "shade4": "#7195a8",
+    "shade5": "#7ea2b4",
+    "shade6": "#c1e4f6",
+    "shade7": "#ebf8ff",
+    "accent0": "#d22d72",
+    "accent1": "#935c25",
+    "accent2": "#8a8a0f",
+    "accent3": "#568c3b",
+    "accent4": "#2d8f6f",
+    "accent5": "#257fad",
+    "accent6": "#6b6bb8",
+    "accent7": "#b72dd2"
+}

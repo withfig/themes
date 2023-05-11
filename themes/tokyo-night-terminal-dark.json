@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tokyo-night-terminal-dark",
+    "displayName": "Tokyo Night Terminal Dark",
+    "author": {
+        "name": "Michaël Ball"
+    },
+    "shade0": "#16161E",
+    "shade1": "#1A1B26",
+    "shade2": "#2F3549",
+    "shade3": "#444B6A",
+    "shade4": "#787C99",
+    "shade5": "#787C99",
+    "shade6": "#CBCCD1",
+    "shade7": "#D5D6DB",
+    "accent0": "#F7768E",
+    "accent1": "#FF9E64",
+    "accent2": "#E0AF68",
+    "accent3": "#41A6B5",
+    "accent4": "#7DCFFF",
+    "accent5": "#7AA2F7",
+    "accent6": "#BB9AF7",
+    "accent7": "#D18616"
+}

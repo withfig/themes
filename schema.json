@@ -1,108 +1,113 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "title": "Fig Theme ✨",
-    "description": "Describes what colors Fig uses.",
-    "$comment": "TODO: add better description?",
-    "type": "object",
-    "properties": {
-        "author": {
-            "type": "object",
-            "title": "Author",
-            "description": "Information about the amazing person who created this theme.",
-            "properties": {
-                "name": {
-                    "type": "string",
-                    "description": "The name of the author.",
-                    "example": "Linus Torvalds"
-                },
-                "twitter": {
-                    "type": "string",
-                    "description": "The Twitter handle of the author.",
-                    "example": "@torvalds"
-                },
-                "github": {
-                    "type": "string",
-                    "description": "The GitHub username of the author.",
-                    "example": "torvalds"
-                }
-            },
-            "required": ["name"]
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Fig Theme ✨",
+  "description": "Describes what colors Fig uses.",
+  "$comment": "TODO: add better description?",
+  "type": "object",
+  "properties": {
+    "author": {
+      "type": "object",
+      "title": "Author",
+      "description": "Information about the amazing person who created this theme.",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The name of the author.",
+          "example": "Linus Torvalds"
         },
-        "version": {
-            "type": "string",
-            "title": "Version",
-            "description": "The SemVer version of the theme.",
-            "example": "1.0.0"
+        "twitter": {
+          "type": "string",
+          "description": "The Twitter handle of the author.",
+          "example": "@torvalds"
         },
-
-        "theme": {
-            "type": "object",
-            "title": "Color Theme",
-            "markdownDescription": "The colors used in the theme.\n\nTheme colors can be any valid [CSS color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) value.",
-            "properties": {
-                "textColor": {
-                    "title": "Text Color",
-                    "$ref": "#/definitions/color"
-                },
-                "backgroundColor": {
-                    "title": "Background Color",
-                    "$ref": "#/definitions/color"
-                },
-                "matchBackgroundColor": {
-                    "title": "Match Background Color",
-                    "$ref": "#/definitions/color"
-                },
-                "selection": {
-                    "type": "object",
-                    "title": "Selection",
-                    "description": "The colors used for the currently selected autocompletion.",
-                    "properties": {
-                        "backgroundColor": {
-                            "title": "Selection Background Color",
-                            "$ref": "#/definitions/color"
-                        },
-                        "textColor": {
-                            "title": "Selection Text Color",
-                            "$ref": "#/definitions/color"
-                        },
-                        "matchBackgroundColor": {
-                            "title": "Match Background Color",
-                            "$ref": "#/definitions/color"
-                        }
-                    }
-                },
-                "description": {
-                    "type": "object",
-                    "title": "Description",
-                    "description": "The colors used for autocompletion descriptions. These appear at the bottom of the Fig window.",
-                    "properties": {
-                        "textColor": {
-                            "title": "Description Text Color",
-                            "$ref": "#/definitions/color"
-                        },
-                        "backgroundColor": {
-                            "title": "Description Background Color",
-                            "$ref": "#/definitions/color"
-                        },
-                        "borderColor": {
-                            "title": "Description Border Color",
-                            "$ref": "#/definitions/color"
-                        }
-                    }
-                }
-            }
+        "github": {
+          "type": "string",
+          "description": "The GitHub username of the author.",
+          "example": "torvalds"
         }
-        
+      },
+      "required": ["name"]
     },
-    "definitions": {
-        "color": {
-            "title": "Color",
-            "markdownDescription": "A CSS color value. Check out the [CSS Color Types](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) page for more information.",
-            "type": "string",
-            "examples": [
-                "#000000",
-                "rgb(0, 0, 0)"
-            ]
-        }
+    "version": {
+      "type": "string",
+      "title": "Version",
+      "description": "The version of the theme.",
+      "example": "2",
+      "const": "2"
+    },
+    "name": {
+      "type": "string",
+      "title": "Name",
+      "description": "The name of the theme.",
+      "example": "my-theme",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "displayName": {
+      "type": "string",
+      "title": "Display Name",
+      "description": "The name of the theme as it appears in the Fig UI.",
+      "example": "My Theme"
+    },
+
+    "base00": {
+      "$ref": "#/definitions/color"
+    },
+    "base01": {
+      "$ref": "#/definitions/color"
+    },
+    "base02": {
+      "$ref": "#/definitions/color"
+    },
+    "base03": {
+      "$ref": "#/definitions/color"
+    },
+    "base04": {
+      "$ref": "#/definitions/color"
+    },
+    "base05": {
+      "$ref": "#/definitions/color"
+    },
+    "base06": {
+      "$ref": "#/definitions/color"
+    },
+    "base07": {
+      "$ref": "#/definitions/color"
+    },
+    "base08": {
+      "$ref": "#/definitions/color"
+    },
+    "base09": {
+      "$ref": "#/definitions/color"
+    },
+    "base0A": {
+      "$ref": "#/definitions/color"
+    },
+    "base0B": {
+      "$ref": "#/definitions/color"
+    },
+    "base0C": {
+      "$ref": "#/definitions/color"
+    },
+    "base0D": {
+      "$ref": "#/definitions/color"
+    },
+    "base0E": {
+      "$ref": "#/definitions/color"
+    },
+    "base0F": {
+      "$ref": "#/definitions/color"
     }
+  },
+  "definitions": {
+    "color": {
+      "title": "Color",
+      "markdownDescription": "A CSS color value. Check out the [CSS Color Types](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value) page for more information.",
+      "type": "string",
+      "examples": [
+        "#000000",
+        "rgb(0, 0, 0)"
+      ],
+      "pattern": "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$|^rgb\\(\\d{1,3},\\s?\\d{1,3},\\s?\\d{1,3}\\)$"
+    }
+  }
 }

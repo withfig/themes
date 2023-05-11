@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tube",
+    "displayName": "London Tube",
+    "author": {
+        "name": "Jan T. Sott"
+    },
+    "shade0": "#231f20",
+    "shade1": "#1c3f95",
+    "shade2": "#5a5758",
+    "shade3": "#737171",
+    "shade4": "#959ca1",
+    "shade5": "#d9d8d8",
+    "shade6": "#e7e7e8",
+    "shade7": "#ffffff",
+    "accent0": "#ee2e24",
+    "accent1": "#f386a1",
+    "accent2": "#ffd204",
+    "accent3": "#00853e",
+    "accent4": "#85cebc",
+    "accent5": "#009ddc",
+    "accent6": "#98005d",
+    "accent7": "#b06110"
+}

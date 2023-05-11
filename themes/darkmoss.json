@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "darkmoss",
+    "displayName": "darkmoss",
+    "author": {
+        "name": "Gabriel Avanzi (https://github.com/avanzzzi)"
+    },
+    "shade0": "#171e1f",
+    "shade1": "#252c2d",
+    "shade2": "#373c3d",
+    "shade3": "#555e5f",
+    "shade4": "#818f80",
+    "shade5": "#c7c7a5",
+    "shade6": "#e3e3c8",
+    "shade7": "#e1eaef",
+    "accent0": "#ff4658",
+    "accent1": "#e6db74",
+    "accent2": "#fdb11f",
+    "accent3": "#499180",
+    "accent4": "#66d9ef",
+    "accent5": "#498091",
+    "accent6": "#9bc0c8",
+    "accent7": "#d27b53"
+}

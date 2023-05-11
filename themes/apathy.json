@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "apathy",
+    "displayName": "Apathy",
+    "author": {
+        "name": "Jannik Siebert (https://github.com/janniks)"
+    },
+    "shade0": "#031A16",
+    "shade1": "#0B342D",
+    "shade2": "#184E45",
+    "shade3": "#2B685E",
+    "shade4": "#5F9C92",
+    "shade5": "#81B5AC",
+    "shade6": "#A7CEC8",
+    "shade7": "#D2E7E4",
+    "accent0": "#3E9688",
+    "accent1": "#3E7996",
+    "accent2": "#3E4C96",
+    "accent3": "#883E96",
+    "accent4": "#963E4C",
+    "accent5": "#96883E",
+    "accent6": "#4C963E",
+    "accent7": "#3E965B"
+}

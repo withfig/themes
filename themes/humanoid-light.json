@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "humanoid-light",
+    "displayName": "Humanoid light",
+    "author": {
+        "name": "Thomas (tasmo) Friese"
+    },
+    "shade0": "#f8f8f2",
+    "shade1": "#efefe9",
+    "shade2": "#deded8",
+    "shade3": "#c0c0bd",
+    "shade4": "#60615d",
+    "shade5": "#232629",
+    "shade6": "#2f3337",
+    "shade7": "#070708",
+    "accent0": "#b0151a",
+    "accent1": "#ff3d00",
+    "accent2": "#ffb627",
+    "accent3": "#388e3c",
+    "accent4": "#008e8e",
+    "accent5": "#0082c9",
+    "accent6": "#700f98",
+    "accent7": "#b27701"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "summerfruit-dark",
+    "displayName": "Summerfruit Dark",
+    "author": {
+        "name": "Christopher Corley (http://christop.club/)"
+    },
+    "shade0": "#151515",
+    "shade1": "#202020",
+    "shade2": "#303030",
+    "shade3": "#505050",
+    "shade4": "#B0B0B0",
+    "shade5": "#D0D0D0",
+    "shade6": "#E0E0E0",
+    "shade7": "#FFFFFF",
+    "accent0": "#FF0086",
+    "accent1": "#FD8900",
+    "accent2": "#ABA800",
+    "accent3": "#00C918",
+    "accent4": "#1FAAAA",
+    "accent5": "#3777E6",
+    "accent6": "#AD00A1",
+    "accent7": "#CC6633"
+}

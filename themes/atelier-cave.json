@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-cave",
+    "displayName": "Atelier Cave",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#19171c",
+    "shade1": "#26232a",
+    "shade2": "#585260",
+    "shade3": "#655f6d",
+    "shade4": "#7e7887",
+    "shade5": "#8b8792",
+    "shade6": "#e2dfe7",
+    "shade7": "#efecf4",
+    "accent0": "#be4678",
+    "accent1": "#aa573c",
+    "accent2": "#a06e3b",
+    "accent3": "#2a9292",
+    "accent4": "#398bc6",
+    "accent5": "#576ddb",
+    "accent6": "#955ae7",
+    "accent7": "#bf40bf"
+}

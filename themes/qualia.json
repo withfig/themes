@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "qualia",
+    "displayName": "Qualia",
+    "author": {
+        "name": "isaacwhanson"
+    },
+    "shade0": "#101010",
+    "shade1": "#454545",
+    "shade2": "#454545",
+    "shade3": "#454545",
+    "shade4": "#808080",
+    "shade5": "#C0C0C0",
+    "shade6": "#C0C0C0",
+    "shade7": "#454545",
+    "accent0": "#EFA6A2",
+    "accent1": "#A3B8EF",
+    "accent2": "#E6A3DC",
+    "accent3": "#80C990",
+    "accent4": "#C8C874",
+    "accent5": "#50CACD",
+    "accent6": "#E0AF85",
+    "accent7": "#808080"
+}

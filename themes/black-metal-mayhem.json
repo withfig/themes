@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "black-metal-mayhem",
+    "displayName": "Black Metal (Mayhem)",
+    "author": {
+        "name": "metalelf0 (https://github.com/metalelf0)"
+    },
+    "shade0": "#000000",
+    "shade1": "#121212",
+    "shade2": "#222222",
+    "shade3": "#333333",
+    "shade4": "#999999",
+    "shade5": "#c1c1c1",
+    "shade6": "#999999",
+    "shade7": "#c1c1c1",
+    "accent0": "#5f8787",
+    "accent1": "#aaaaaa",
+    "accent2": "#eecc6c",
+    "accent3": "#f3ecd4",
+    "accent4": "#aaaaaa",
+    "accent5": "#888888",
+    "accent6": "#999999",
+    "accent7": "#444444"
+}

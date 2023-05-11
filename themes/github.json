@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "github",
+    "displayName": "Github",
+    "author": {
+        "name": "Defman21"
+    },
+    "shade0": "#ffffff",
+    "shade1": "#f5f5f5",
+    "shade2": "#c8c8fa",
+    "shade3": "#969896",
+    "shade4": "#e8e8e8",
+    "shade5": "#333333",
+    "shade6": "#ffffff",
+    "shade7": "#ffffff",
+    "accent0": "#ed6a43",
+    "accent1": "#0086b3",
+    "accent2": "#795da3",
+    "accent3": "#183691",
+    "accent4": "#183691",
+    "accent5": "#795da3",
+    "accent6": "#a71d5d",
+    "accent7": "#333333"
+}

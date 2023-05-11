@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-dune-light",
+    "displayName": "Atelier Dune Light",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#fefbec",
+    "shade1": "#e8e4cf",
+    "shade2": "#a6a28c",
+    "shade3": "#999580",
+    "shade4": "#7d7a68",
+    "shade5": "#6e6b5e",
+    "shade6": "#292824",
+    "shade7": "#20201d",
+    "accent0": "#d73737",
+    "accent1": "#b65611",
+    "accent2": "#ae9513",
+    "accent3": "#60ac39",
+    "accent4": "#1fad83",
+    "accent5": "#6684e1",
+    "accent6": "#b854d4",
+    "accent7": "#d43552"
+}

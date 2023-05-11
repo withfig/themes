@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "horizon-terminal-light",
+    "displayName": "Horizon Terminal Light",
+    "author": {
+        "name": "Michaël Ball (http://github.com/michael-ball/)"
+    },
+    "shade0": "#FDF0ED",
+    "shade1": "#FADAD1",
+    "shade2": "#F9CBBE",
+    "shade3": "#BDB3B1",
+    "shade4": "#948C8A",
+    "shade5": "#403C3D",
+    "shade6": "#302C2D",
+    "shade7": "#201C1D",
+    "accent0": "#E95678",
+    "accent1": "#F9CEC3",
+    "accent2": "#FADAD1",
+    "accent3": "#29D398",
+    "accent4": "#59E1E3",
+    "accent5": "#26BBD9",
+    "accent6": "#EE64AC",
+    "accent7": "#F9CBBE"
+}

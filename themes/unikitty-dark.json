@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "unikitty-dark",
+    "displayName": "Unikitty Dark",
+    "author": {
+        "name": "Josh W Lewis (@joshwlewis)"
+    },
+    "shade0": "#2e2a31",
+    "shade1": "#4a464d",
+    "shade2": "#666369",
+    "shade3": "#838085",
+    "shade4": "#9f9da2",
+    "shade5": "#bcbabe",
+    "shade6": "#d8d7da",
+    "shade7": "#f5f4f7",
+    "accent0": "#d8137f",
+    "accent1": "#d65407",
+    "accent2": "#dc8a0e",
+    "accent3": "#17ad98",
+    "accent4": "#149bda",
+    "accent5": "#796af5",
+    "accent6": "#bb60ea",
+    "accent7": "#c720ca"
+}

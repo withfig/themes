@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "flat",
+    "displayName": "Flat",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#2C3E50",
+    "shade1": "#34495E",
+    "shade2": "#7F8C8D",
+    "shade3": "#95A5A6",
+    "shade4": "#BDC3C7",
+    "shade5": "#e0e0e0",
+    "shade6": "#f5f5f5",
+    "shade7": "#ECF0F1",
+    "accent0": "#E74C3C",
+    "accent1": "#E67E22",
+    "accent2": "#F1C40F",
+    "accent3": "#2ECC71",
+    "accent4": "#1ABC9C",
+    "accent5": "#3498DB",
+    "accent6": "#9B59B6",
+    "accent7": "#be643c"
+}

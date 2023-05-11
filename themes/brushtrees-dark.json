@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "brushtrees-dark",
+    "displayName": "Brush Trees Dark",
+    "author": {
+        "name": "Abraham White <abelincoln.white@gmail.com>"
+    },
+    "shade0": "#485867",
+    "shade1": "#5A6D7A",
+    "shade2": "#6D828E",
+    "shade3": "#8299A1",
+    "shade4": "#98AFB5",
+    "shade5": "#B0C5C8",
+    "shade6": "#C9DBDC",
+    "shade7": "#E3EFEF",
+    "accent0": "#b38686",
+    "accent1": "#d8bba2",
+    "accent2": "#aab386",
+    "accent3": "#87b386",
+    "accent4": "#86b3b3",
+    "accent5": "#868cb3",
+    "accent6": "#b386b2",
+    "accent7": "#b39f9f"
+}

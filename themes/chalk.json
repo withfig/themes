@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "chalk",
+    "displayName": "Chalk",
+    "author": {
+        "name": "Chris Kempson (http://chriskempson.com)"
+    },
+    "shade0": "#151515",
+    "shade1": "#202020",
+    "shade2": "#303030",
+    "shade3": "#505050",
+    "shade4": "#b0b0b0",
+    "shade5": "#d0d0d0",
+    "shade6": "#e0e0e0",
+    "shade7": "#f5f5f5",
+    "accent0": "#fb9fb1",
+    "accent1": "#eda987",
+    "accent2": "#ddb26f",
+    "accent3": "#acc267",
+    "accent4": "#12cfc0",
+    "accent5": "#6fc2ef",
+    "accent6": "#e1a3ee",
+    "accent7": "#deaf8f"
+}

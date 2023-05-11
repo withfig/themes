@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "windows-10-light",
+    "displayName": "Windows 10 Light",
+    "author": {
+        "name": "Fergus Collins (https://github.com/C-Fergus)"
+    },
+    "shade0": "#f2f2f2",
+    "shade1": "#e5e5e5",
+    "shade2": "#d9d9d9",
+    "shade3": "#cccccc",
+    "shade4": "#ababab",
+    "shade5": "#767676",
+    "shade6": "#414141",
+    "shade7": "#0c0c0c",
+    "accent0": "#c50f1f",
+    "accent1": "#f9f1a5",
+    "accent2": "#c19c00",
+    "accent3": "#13a10e",
+    "accent4": "#3a96dd",
+    "accent5": "#0037da",
+    "accent6": "#881798",
+    "accent7": "#16c60c"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tokyo-city-light",
+    "displayName": "Tokyo City Light",
+    "author": {
+        "name": "Michaël Ball"
+    },
+    "shade0": "#FBFBFD",
+    "shade1": "#F6F6F8",
+    "shade2": "#EDEFF6",
+    "shade3": "#9699A3",
+    "shade4": "#4c505e",
+    "shade5": "#343B59",
+    "shade6": "#1D252C",
+    "shade7": "#171D23",
+    "accent0": "#8C4351",
+    "accent1": "#965027",
+    "accent2": "#4C505E",
+    "accent3": "#485E30",
+    "accent4": "#4C505E",
+    "accent5": "#34548a",
+    "accent6": "#5A4A78",
+    "accent7": "#5A4A78"
+}

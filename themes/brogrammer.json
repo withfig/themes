@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "brogrammer",
+    "displayName": "Brogrammer",
+    "author": {
+        "name": "Vik Ramanujam (http://github.com/piggyslasher)"
+    },
+    "shade0": "#1f1f1f",
+    "shade1": "#f81118",
+    "shade2": "#2dc55e",
+    "shade3": "#ecba0f",
+    "shade4": "#2a84d2",
+    "shade5": "#4e5ab7",
+    "shade6": "#1081d6",
+    "shade7": "#d6dbe5",
+    "accent0": "#d6dbe5",
+    "accent1": "#de352e",
+    "accent2": "#1dd361",
+    "accent3": "#f3bd09",
+    "accent4": "#1081d6",
+    "accent5": "#5350b9",
+    "accent6": "#0f7ddb",
+    "accent7": "#ffffff"
+}

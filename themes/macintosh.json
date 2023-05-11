@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "macintosh",
+    "displayName": "Macintosh",
+    "author": {
+        "name": "Rebecca Bettencourt (http://www.kreativekorp.com)"
+    },
+    "shade0": "#000000",
+    "shade1": "#404040",
+    "shade2": "#404040",
+    "shade3": "#808080",
+    "shade4": "#808080",
+    "shade5": "#c0c0c0",
+    "shade6": "#c0c0c0",
+    "shade7": "#ffffff",
+    "accent0": "#dd0907",
+    "accent1": "#ff6403",
+    "accent2": "#fbf305",
+    "accent3": "#1fb714",
+    "accent4": "#02abea",
+    "accent5": "#0000d3",
+    "accent6": "#4700a5",
+    "accent7": "#90713a"
+}

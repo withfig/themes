@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "standardized-dark",
+    "displayName": "standardized-dark",
+    "author": {
+        "name": "ali (https://github.com/ali-githb/base16-standardized-scheme)"
+    },
+    "shade0": "#222222",
+    "shade1": "#303030",
+    "shade2": "#555555",
+    "shade3": "#898989",
+    "shade4": "#898989",
+    "shade5": "#c0c0c0",
+    "shade6": "#e0e0e0",
+    "shade7": "#ffffff",
+    "accent0": "#e15d67",
+    "accent1": "#fc804e",
+    "accent2": "#e1b31a",
+    "accent3": "#5db129",
+    "accent4": "#21c992",
+    "accent5": "#00a3f2",
+    "accent6": "#b46ee0",
+    "accent7": "#b87d28"
+}

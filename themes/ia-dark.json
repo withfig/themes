@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "ia-dark",
+    "displayName": "iA Dark",
+    "author": {
+        "name": "iA Inc. (modified by aramisgithub)"
+    },
+    "shade0": "#1a1a1a",
+    "shade1": "#222222",
+    "shade2": "#1d414d",
+    "shade3": "#767676",
+    "shade4": "#b8b8b8",
+    "shade5": "#cccccc",
+    "shade6": "#e8e8e8",
+    "shade7": "#f8f8f8",
+    "accent0": "#d88568",
+    "accent1": "#d86868",
+    "accent2": "#b99353",
+    "accent3": "#83a471",
+    "accent4": "#7c9cae",
+    "accent5": "#8eccdd",
+    "accent6": "#b98eb2",
+    "accent7": "#8b6c37"
+}

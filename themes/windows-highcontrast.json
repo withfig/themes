@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "windows-highcontrast",
+    "displayName": "Windows High Contrast",
+    "author": {
+        "name": "Fergus Collins (https://github.com/C-Fergus)"
+    },
+    "shade0": "#000000",
+    "shade1": "#1C1C1C",
+    "shade2": "#383838",
+    "shade3": "#545454",
+    "shade4": "#a2a2a2",
+    "shade5": "#c0c0c0",
+    "shade6": "#dedede",
+    "shade7": "#fcfcfc",
+    "accent0": "#fc5454",
+    "accent1": "#808000",
+    "accent2": "#fcfc54",
+    "accent3": "#54fc54",
+    "accent4": "#54fcfc",
+    "accent5": "#5454fc",
+    "accent6": "#fc54fc",
+    "accent7": "#008000"
+}

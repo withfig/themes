@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "nova",
+    "displayName": "Nova",
+    "author": {
+        "name": "George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)"
+    },
+    "shade0": "#3C4C55",
+    "shade1": "#556873",
+    "shade2": "#6A7D89",
+    "shade3": "#899BA6",
+    "shade4": "#899BA6",
+    "shade5": "#C5D4DD",
+    "shade6": "#899BA6",
+    "shade7": "#556873",
+    "accent0": "#83AFE5",
+    "accent1": "#7FC1CA",
+    "accent2": "#A8CE93",
+    "accent3": "#7FC1CA",
+    "accent4": "#F2C38F",
+    "accent5": "#83AFE5",
+    "accent6": "#9A93E1",
+    "accent7": "#F2C38F"
+}

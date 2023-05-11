@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "material-palenight",
+    "displayName": "Material Palenight",
+    "author": {
+        "name": "Nate Peterson"
+    },
+    "shade0": "#292D3E",
+    "shade1": "#444267",
+    "shade2": "#32374D",
+    "shade3": "#676E95",
+    "shade4": "#8796B0",
+    "shade5": "#959DCB",
+    "shade6": "#959DCB",
+    "shade7": "#FFFFFF",
+    "accent0": "#F07178",
+    "accent1": "#F78C6C",
+    "accent2": "#FFCB6B",
+    "accent3": "#C3E88D",
+    "accent4": "#89DDFF",
+    "accent5": "#82AAFF",
+    "accent6": "#C792EA",
+    "accent7": "#FF5370"
+}

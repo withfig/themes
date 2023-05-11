@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "rose-pine-dawn",
+    "displayName": "Rosé Pine Dawn",
+    "author": {
+        "name": "Emilia Dunfelt <sayhi@dunfelt.se>"
+    },
+    "shade0": "#faf4ed",
+    "shade1": "#fffaf3",
+    "shade2": "#f2e9de",
+    "shade3": "#9893a5",
+    "shade4": "#6e6a86",
+    "shade5": "#575279",
+    "shade6": "#555169",
+    "shade7": "#26233a",
+    "accent0": "#1f1d2e",
+    "accent1": "#b4637a",
+    "accent2": "#ea9d34",
+    "accent3": "#d7827e",
+    "accent4": "#286983",
+    "accent5": "#56949f",
+    "accent6": "#907aa9",
+    "accent7": "#c5c3ce"
+}

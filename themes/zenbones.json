@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "zenbones",
+    "displayName": "Zenbones",
+    "author": {
+        "name": "mcchrish"
+    },
+    "shade0": "#191919",
+    "shade1": "#DE6E7C",
+    "shade2": "#819B69",
+    "shade3": "#B77E64",
+    "shade4": "#6099C0",
+    "shade5": "#B279A7",
+    "shade6": "#66A5AD",
+    "shade7": "#BBBBBB",
+    "accent0": "#3D3839",
+    "accent1": "#E8838F",
+    "accent2": "#8BAE68",
+    "accent3": "#D68C67",
+    "accent4": "#61ABDA",
+    "accent5": "#CF86C1",
+    "accent6": "#65B8C1",
+    "accent7": "#8E8E8E"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "3024",
+    "displayName": "3024",
+    "author": {
+        "name": "Jan T. Sott (http://github.com/idleberg)"
+    },
+    "shade0": "#090300",
+    "shade1": "#3a3432",
+    "shade2": "#4a4543",
+    "shade3": "#5c5855",
+    "shade4": "#807d7c",
+    "shade5": "#a5a2a2",
+    "shade6": "#d6d5d4",
+    "shade7": "#f7f7f7",
+    "accent0": "#db2d20",
+    "accent1": "#e8bbd0",
+    "accent2": "#fded02",
+    "accent3": "#01a252",
+    "accent4": "#b5e4f4",
+    "accent5": "#01a0e4",
+    "accent6": "#a16a94",
+    "accent7": "#cdab53"
+}

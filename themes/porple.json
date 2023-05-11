@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "porple",
+    "displayName": "Porple",
+    "author": {
+        "name": "Niek den Breeje (https://github.com/AuditeMarlow)"
+    },
+    "shade0": "#292c36",
+    "shade1": "#333344",
+    "shade2": "#474160",
+    "shade3": "#65568a",
+    "shade4": "#b8b8b8",
+    "shade5": "#d8d8d8",
+    "shade6": "#e8e8e8",
+    "shade7": "#f8f8f8",
+    "accent0": "#f84547",
+    "accent1": "#d28e5d",
+    "accent2": "#efa16b",
+    "accent3": "#95c76f",
+    "accent4": "#64878f",
+    "accent5": "#8485ce",
+    "accent6": "#b74989",
+    "accent7": "#986841"
+}

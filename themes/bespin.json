@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "bespin",
+    "displayName": "Bespin",
+    "author": {
+        "name": "Jan T. Sott"
+    },
+    "shade0": "#28211c",
+    "shade1": "#36312e",
+    "shade2": "#5e5d5c",
+    "shade3": "#666666",
+    "shade4": "#797977",
+    "shade5": "#8a8986",
+    "shade6": "#9d9b97",
+    "shade7": "#baae9e",
+    "accent0": "#cf6a4c",
+    "accent1": "#cf7d34",
+    "accent2": "#f9ee98",
+    "accent3": "#54be0d",
+    "accent4": "#afc4db",
+    "accent5": "#5ea6ea",
+    "accent6": "#9b859d",
+    "accent7": "#937121"
+}

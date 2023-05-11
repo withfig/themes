@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "pico",
+    "displayName": "Pico",
+    "author": {
+        "name": "PICO-8 (http://www.lexaloffle.com/pico-8.php)"
+    },
+    "shade0": "#000000",
+    "shade1": "#1d2b53",
+    "shade2": "#7e2553",
+    "shade3": "#008751",
+    "shade4": "#ab5236",
+    "shade5": "#5f574f",
+    "shade6": "#c2c3c7",
+    "shade7": "#fff1e8",
+    "accent0": "#ff004d",
+    "accent1": "#ffa300",
+    "accent2": "#fff024",
+    "accent3": "#00e756",
+    "accent4": "#29adff",
+    "accent5": "#83769c",
+    "accent6": "#ff77a8",
+    "accent7": "#ffccaa"
+}

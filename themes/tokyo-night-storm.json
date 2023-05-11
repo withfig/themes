@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "tokyo-night-storm",
+    "displayName": "Tokyo Night Storm",
+    "author": {
+        "name": "Michaël Ball"
+    },
+    "shade0": "#24283B",
+    "shade1": "#16161E",
+    "shade2": "#343A52",
+    "shade3": "#444B6A",
+    "shade4": "#787C99",
+    "shade5": "#A9B1D6",
+    "shade6": "#CBCCD1",
+    "shade7": "#D5D6DB",
+    "accent0": "#C0CAF5",
+    "accent1": "#A9B1D6",
+    "accent2": "#0DB9D7",
+    "accent3": "#9ECE6A",
+    "accent4": "#B4F9F8",
+    "accent5": "#2AC3DE",
+    "accent6": "#BB9AF7",
+    "accent7": "#F7768E"
+}

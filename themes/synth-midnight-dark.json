@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "synth-midnight-dark",
+    "displayName": "Synth Midnight Terminal Dark",
+    "author": {
+        "name": "Michaël Ball (http://github.com/michael-ball/)"
+    },
+    "shade0": "#050608",
+    "shade1": "#1a1b1c",
+    "shade2": "#28292a",
+    "shade3": "#474849",
+    "shade4": "#a3a5a6",
+    "shade5": "#c1c3c4",
+    "shade6": "#cfd1d2",
+    "shade7": "#dddfe0",
+    "accent0": "#b53b50",
+    "accent1": "#ea770d",
+    "accent2": "#c9d364",
+    "accent3": "#06ea61",
+    "accent4": "#42fff9",
+    "accent5": "#03aeff",
+    "accent6": "#ea5ce2",
+    "accent7": "#cd6320"
+}

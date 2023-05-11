@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "shadesmear-dark",
+    "displayName": "ShadeSmear Dark",
+    "author": {
+        "name": "Kyle Giammarco (http://kyle.giammar.co)"
+    },
+    "shade0": "#232323",
+    "shade1": "#1C1C1C",
+    "shade2": "#4E4E4E",
+    "shade3": "#C0C0C0",
+    "shade4": "#E4E4E4",
+    "shade5": "#DBDBDB",
+    "shade6": "#E4E4E4",
+    "shade7": "#1C1C1C",
+    "accent0": "#CC5450",
+    "accent1": "#A64270",
+    "accent2": "#307878",
+    "accent3": "#71983B",
+    "accent4": "#C57D42",
+    "accent5": "#376388",
+    "accent6": "#D7AB54",
+    "accent7": "#6D6D6D"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "dirtysea",
+    "displayName": "dirtysea",
+    "author": {
+        "name": "Kahlil (Kal) Hodgson"
+    },
+    "shade0": "#e0e0e0",
+    "shade1": "#d0dad0",
+    "shade2": "#d0d0d0",
+    "shade3": "#707070",
+    "shade4": "#202020",
+    "shade5": "#000000",
+    "shade6": "#f8f8f8",
+    "shade7": "#c4d9c4",
+    "accent0": "#840000",
+    "accent1": "#006565",
+    "accent2": "#755B00",
+    "accent3": "#730073",
+    "accent4": "#755B00",
+    "accent5": "#007300",
+    "accent6": "#000090",
+    "accent7": "#755B00"
+}

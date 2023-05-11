@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "colors",
+    "displayName": "Colors",
+    "author": {
+        "name": "mrmrs (http://clrs.cc)"
+    },
+    "shade0": "#111111",
+    "shade1": "#333333",
+    "shade2": "#555555",
+    "shade3": "#777777",
+    "shade4": "#999999",
+    "shade5": "#bbbbbb",
+    "shade6": "#dddddd",
+    "shade7": "#ffffff",
+    "accent0": "#ff4136",
+    "accent1": "#ff851b",
+    "accent2": "#ffdc00",
+    "accent3": "#2ecc40",
+    "accent4": "#7fdbff",
+    "accent5": "#0074d9",
+    "accent6": "#b10dc9",
+    "accent7": "#85144b"
+}

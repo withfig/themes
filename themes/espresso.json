@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "espresso",
+    "displayName": "Espresso",
+    "author": {
+        "name": "Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)"
+    },
+    "shade0": "#2d2d2d",
+    "shade1": "#393939",
+    "shade2": "#515151",
+    "shade3": "#777777",
+    "shade4": "#b4b7b4",
+    "shade5": "#cccccc",
+    "shade6": "#e0e0e0",
+    "shade7": "#ffffff",
+    "accent0": "#d25252",
+    "accent1": "#f9a959",
+    "accent2": "#ffc66d",
+    "accent3": "#a5c261",
+    "accent4": "#bed6ff",
+    "accent5": "#6c99bb",
+    "accent6": "#d197d9",
+    "accent7": "#f97394"
+}

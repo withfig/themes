@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "gigavolt",
+    "displayName": "Gigavolt",
+    "author": {
+        "name": "Aidan Swope (http://github.com/Whillikers)"
+    },
+    "shade0": "#202126",
+    "shade1": "#2d303d",
+    "shade2": "#5a576e",
+    "shade3": "#a1d2e6",
+    "shade4": "#cad3ff",
+    "shade5": "#e9e7e1",
+    "shade6": "#eff0f9",
+    "shade7": "#f2fbff",
+    "accent0": "#ff661a",
+    "accent1": "#19f988",
+    "accent2": "#ffdc2d",
+    "accent3": "#f2e6a9",
+    "accent4": "#fb6acb",
+    "accent5": "#40bfff",
+    "accent6": "#ae94f9",
+    "accent7": "#6187ff"
+}

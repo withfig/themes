@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "ayu-dark",
+    "displayName": "Ayu Dark",
+    "author": {
+        "name": "Khue Nguyen <Z5483Y@gmail.com>"
+    },
+    "shade0": "#0F1419",
+    "shade1": "#131721",
+    "shade2": "#272D38",
+    "shade3": "#3E4B59",
+    "shade4": "#BFBDB6",
+    "shade5": "#E6E1CF",
+    "shade6": "#E6E1CF",
+    "shade7": "#F3F4F5",
+    "accent0": "#F07178",
+    "accent1": "#FF8F40",
+    "accent2": "#FFB454",
+    "accent3": "#B8CC52",
+    "accent4": "#95E6CB",
+    "accent5": "#59C2FF",
+    "accent6": "#D2A6FF",
+    "accent7": "#E6B673"
+}

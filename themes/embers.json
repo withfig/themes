@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "embers",
+    "displayName": "Embers",
+    "author": {
+        "name": "Jannik Siebert (https://github.com/janniks)"
+    },
+    "shade0": "#16130F",
+    "shade1": "#2C2620",
+    "shade2": "#433B32",
+    "shade3": "#5A5047",
+    "shade4": "#8A8075",
+    "shade5": "#A39A90",
+    "shade6": "#BEB6AE",
+    "shade7": "#DBD6D1",
+    "accent0": "#826D57",
+    "accent1": "#828257",
+    "accent2": "#6D8257",
+    "accent3": "#57826D",
+    "accent4": "#576D82",
+    "accent5": "#6D5782",
+    "accent6": "#82576D",
+    "accent7": "#825757"
+}

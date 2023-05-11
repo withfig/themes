@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "catppuccin-frappe",
+    "displayName": "Catppuccin Frappe",
+    "author": {
+        "name": "https://github.com/catppuccin/catppuccin"
+    },
+    "shade0": "#303446",
+    "shade1": "#292c3c",
+    "shade2": "#414559",
+    "shade3": "#51576d",
+    "shade4": "#626880",
+    "shade5": "#c6d0f5",
+    "shade6": "#f2d5cf",
+    "shade7": "#babbf1",
+    "accent0": "#e78284",
+    "accent1": "#ef9f76",
+    "accent2": "#e5c890",
+    "accent3": "#a6d189",
+    "accent4": "#81c8be",
+    "accent5": "#8caaee",
+    "accent6": "#ca9ee6",
+    "accent7": "#eebebe"
+}

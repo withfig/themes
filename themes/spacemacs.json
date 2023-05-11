@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "spacemacs",
+    "displayName": "Spacemacs",
+    "author": {
+        "name": "Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)"
+    },
+    "shade0": "#1f2022",
+    "shade1": "#282828",
+    "shade2": "#444155",
+    "shade3": "#585858",
+    "shade4": "#b8b8b8",
+    "shade5": "#a3a3a3",
+    "shade6": "#e8e8e8",
+    "shade7": "#f8f8f8",
+    "accent0": "#f2241f",
+    "accent1": "#ffa500",
+    "accent2": "#b1951d",
+    "accent3": "#67b11d",
+    "accent4": "#2d9574",
+    "accent5": "#4f97d7",
+    "accent6": "#a31db1",
+    "accent7": "#b03060"
+}

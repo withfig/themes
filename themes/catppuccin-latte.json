@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "catppuccin-latte",
+    "displayName": "Catppuccin Latte",
+    "author": {
+        "name": "https://github.com/catppuccin/catppuccin"
+    },
+    "shade0": "#eff1f5",
+    "shade1": "#e6e9ef",
+    "shade2": "#ccd0da",
+    "shade3": "#bcc0cc",
+    "shade4": "#acb0be",
+    "shade5": "#4c4f69",
+    "shade6": "#dc8a78",
+    "shade7": "#7287fd",
+    "accent0": "#d20f39",
+    "accent1": "#fe640b",
+    "accent2": "#df8e1d",
+    "accent3": "#40a02b",
+    "accent4": "#179299",
+    "accent5": "#1e66f5",
+    "accent6": "#8839ef",
+    "accent7": "#dd7878"
+}

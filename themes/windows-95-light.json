@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "windows-95-light",
+    "displayName": "Windows 95 Light",
+    "author": {
+        "name": "Fergus Collins (https://github.com/C-Fergus)"
+    },
+    "shade0": "#fcfcfc",
+    "shade1": "#e0e0e0",
+    "shade2": "#c4c4c4",
+    "shade3": "#a8a8a8",
+    "shade4": "#7e7e7e",
+    "shade5": "#545454",
+    "shade6": "#2a2a2a",
+    "shade7": "#000000",
+    "accent0": "#a80000",
+    "accent1": "#fcfc54",
+    "accent2": "#a85400",
+    "accent3": "#00a800",
+    "accent4": "#00a8a8",
+    "accent5": "#0000a8",
+    "accent6": "#a800a8",
+    "accent7": "#54fc54"
+}

@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "harmonic16-light",
+    "displayName": "Harmonic16 Light",
+    "author": {
+        "name": "Jannik Siebert (https://github.com/janniks)"
+    },
+    "shade0": "#f7f9fb",
+    "shade1": "#e5ebf1",
+    "shade2": "#cbd6e2",
+    "shade3": "#aabcce",
+    "shade4": "#627e99",
+    "shade5": "#405c79",
+    "shade6": "#223b54",
+    "shade7": "#0b1c2c",
+    "accent0": "#bf8b56",
+    "accent1": "#bfbf56",
+    "accent2": "#8bbf56",
+    "accent3": "#56bf8b",
+    "accent4": "#568bbf",
+    "accent5": "#8b56bf",
+    "accent6": "#bf568b",
+    "accent7": "#bf5656"
+}

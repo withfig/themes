@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "helios",
+    "displayName": "Helios",
+    "author": {
+        "name": "Alex Meyer (https://github.com/reyemxela)"
+    },
+    "shade0": "#1d2021",
+    "shade1": "#383c3e",
+    "shade2": "#53585b",
+    "shade3": "#6f7579",
+    "shade4": "#cdcdcd",
+    "shade5": "#d5d5d5",
+    "shade6": "#dddddd",
+    "shade7": "#e5e5e5",
+    "accent0": "#d72638",
+    "accent1": "#eb8413",
+    "accent2": "#f19d1a",
+    "accent3": "#88b92d",
+    "accent4": "#1ba595",
+    "accent5": "#1e8bac",
+    "accent6": "#be4264",
+    "accent7": "#c85e0d"
+}

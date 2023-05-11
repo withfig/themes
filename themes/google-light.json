@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "google-light",
+    "displayName": "Google Light",
+    "author": {
+        "name": "Seth Wright (http://sethawright.com)"
+    },
+    "shade0": "#ffffff",
+    "shade1": "#e0e0e0",
+    "shade2": "#c5c8c6",
+    "shade3": "#b4b7b4",
+    "shade4": "#969896",
+    "shade5": "#373b41",
+    "shade6": "#282a2e",
+    "shade7": "#1d1f21",
+    "accent0": "#CC342B",
+    "accent1": "#F96A38",
+    "accent2": "#FBA922",
+    "accent3": "#198844",
+    "accent4": "#3971ED",
+    "accent5": "#3971ED",
+    "accent6": "#A36AC7",
+    "accent7": "#3971ED"
+}

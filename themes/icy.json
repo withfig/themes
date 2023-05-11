@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "icy",
+    "displayName": "Icy Dark",
+    "author": {
+        "name": "icyphox (https://icyphox.ga)"
+    },
+    "shade0": "#021012",
+    "shade1": "#031619",
+    "shade2": "#041f23",
+    "shade3": "#052e34",
+    "shade4": "#064048",
+    "shade5": "#095b67",
+    "shade6": "#0c7c8c",
+    "shade7": "#109cb0",
+    "accent0": "#16c1d9",
+    "accent1": "#b3ebf2",
+    "accent2": "#80deea",
+    "accent3": "#4dd0e1",
+    "accent4": "#26c6da",
+    "accent5": "#00bcd4",
+    "accent6": "#00acc1",
+    "accent7": "#0097a7"
+}

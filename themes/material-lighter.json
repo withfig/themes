@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "material-lighter",
+    "displayName": "Material Lighter",
+    "author": {
+        "name": "Nate Peterson"
+    },
+    "shade0": "#FAFAFA",
+    "shade1": "#E7EAEC",
+    "shade2": "#CCEAE7",
+    "shade3": "#CCD7DA",
+    "shade4": "#8796B0",
+    "shade5": "#80CBC4",
+    "shade6": "#80CBC4",
+    "shade7": "#FFFFFF",
+    "accent0": "#FF5370",
+    "accent1": "#F76D47",
+    "accent2": "#FFB62C",
+    "accent3": "#91B859",
+    "accent4": "#39ADB5",
+    "accent5": "#6182B8",
+    "accent6": "#7C4DFF",
+    "accent7": "#E53935"
+}

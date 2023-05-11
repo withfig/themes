@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "purpledream",
+    "displayName": "Purpledream",
+    "author": {
+        "name": "malet"
+    },
+    "shade0": "#100510",
+    "shade1": "#302030",
+    "shade2": "#403040",
+    "shade3": "#605060",
+    "shade4": "#bbb0bb",
+    "shade5": "#ddd0dd",
+    "shade6": "#eee0ee",
+    "shade7": "#fff0ff",
+    "accent0": "#FF1D0D",
+    "accent1": "#CCAE14",
+    "accent2": "#F000A0",
+    "accent3": "#14CC64",
+    "accent4": "#0075B0",
+    "accent5": "#00A0F0",
+    "accent6": "#B000D0",
+    "accent7": "#6A2A3C"
+}

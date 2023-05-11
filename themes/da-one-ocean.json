@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "da-one-ocean",
+    "displayName": "Da One Ocean",
+    "author": {
+        "name": "NNB (https://github.com/NNBnh)"
+    },
+    "shade0": "#171726",
+    "shade1": "#22273d",
+    "shade2": "#525866",
+    "shade3": "#878d96",
+    "shade4": "#c8c8c8",
+    "shade5": "#ffffff",
+    "shade6": "#ffffff",
+    "shade7": "#ffffff",
+    "accent0": "#fa7883",
+    "accent1": "#ffc387",
+    "accent2": "#ff9470",
+    "accent3": "#98c379",
+    "accent4": "#8af5ff",
+    "accent5": "#6bb8ff",
+    "accent6": "#e799ff",
+    "accent7": "#b3684f"
+}

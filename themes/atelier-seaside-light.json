@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-seaside-light",
+    "displayName": "Atelier Seaside Light",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#f4fbf4",
+    "shade1": "#cfe8cf",
+    "shade2": "#8ca68c",
+    "shade3": "#809980",
+    "shade4": "#687d68",
+    "shade5": "#5e6e5e",
+    "shade6": "#242924",
+    "shade7": "#131513",
+    "accent0": "#e6193c",
+    "accent1": "#87711d",
+    "accent2": "#98981b",
+    "accent3": "#29a329",
+    "accent4": "#1999b3",
+    "accent5": "#3d62f5",
+    "accent6": "#ad2bee",
+    "accent7": "#e619c3"
+}

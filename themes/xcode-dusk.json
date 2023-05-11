@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "xcode-dusk",
+    "displayName": "XCode Dusk",
+    "author": {
+        "name": "Elsa Gonsiorowski (https://github.com/gonsie)"
+    },
+    "shade0": "#282B35",
+    "shade1": "#3D4048",
+    "shade2": "#53555D",
+    "shade3": "#686A71",
+    "shade4": "#7E8086",
+    "shade5": "#939599",
+    "shade6": "#A9AAAE",
+    "shade7": "#BEBFC2",
+    "accent0": "#B21889",
+    "accent1": "#786DC5",
+    "accent2": "#438288",
+    "accent3": "#DF0002",
+    "accent4": "#00A0BE",
+    "accent5": "#790EAD",
+    "accent6": "#B21889",
+    "accent7": "#C77C48"
+}

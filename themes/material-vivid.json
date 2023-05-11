@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "material-vivid",
+    "displayName": "Material Vivid",
+    "author": {
+        "name": "joshyrobot"
+    },
+    "shade0": "#202124",
+    "shade1": "#27292c",
+    "shade2": "#323639",
+    "shade3": "#44464d",
+    "shade4": "#676c71",
+    "shade5": "#80868b",
+    "shade6": "#9e9e9e",
+    "shade7": "#ffffff",
+    "accent0": "#f44336",
+    "accent1": "#ff9800",
+    "accent2": "#ffeb3b",
+    "accent3": "#00e676",
+    "accent4": "#00bcd4",
+    "accent5": "#2196f3",
+    "accent6": "#673ab7",
+    "accent7": "#8d6e63"
+}

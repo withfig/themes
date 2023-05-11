@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "horizon-dark",
+    "displayName": "Horizon Dark",
+    "author": {
+        "name": "Michaël Ball (http://github.com/michael-ball/)"
+    },
+    "shade0": "#1C1E26",
+    "shade1": "#232530",
+    "shade2": "#2E303E",
+    "shade3": "#6F6F70",
+    "shade4": "#9DA0A2",
+    "shade5": "#CBCED0",
+    "shade6": "#DCDFE4",
+    "shade7": "#E3E6EE",
+    "accent0": "#E93C58",
+    "accent1": "#E58D7D",
+    "accent2": "#EFB993",
+    "accent3": "#EFAF8E",
+    "accent4": "#24A8B4",
+    "accent5": "#DF5273",
+    "accent6": "#B072D1",
+    "accent7": "#E4A382"
+}

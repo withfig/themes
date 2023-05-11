@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "atelier-seaside",
+    "displayName": "Atelier Seaside",
+    "author": {
+        "name": "Bram de Haan (http://atelierbramdehaan.nl)"
+    },
+    "shade0": "#131513",
+    "shade1": "#242924",
+    "shade2": "#5e6e5e",
+    "shade3": "#687d68",
+    "shade4": "#809980",
+    "shade5": "#8ca68c",
+    "shade6": "#cfe8cf",
+    "shade7": "#f4fbf4",
+    "accent0": "#e6193c",
+    "accent1": "#87711d",
+    "accent2": "#98981b",
+    "accent3": "#29a329",
+    "accent4": "#1999b3",
+    "accent5": "#3d62f5",
+    "accent6": "#ad2bee",
+    "accent7": "#e619c3"
+}

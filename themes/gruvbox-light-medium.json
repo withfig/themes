@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "gruvbox-light-medium",
+    "displayName": "Gruvbox light, medium",
+    "author": {
+        "name": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)"
+    },
+    "shade0": "#fbf1c7",
+    "shade1": "#ebdbb2",
+    "shade2": "#d5c4a1",
+    "shade3": "#bdae93",
+    "shade4": "#665c54",
+    "shade5": "#504945",
+    "shade6": "#3c3836",
+    "shade7": "#282828",
+    "accent0": "#9d0006",
+    "accent1": "#af3a03",
+    "accent2": "#b57614",
+    "accent3": "#79740e",
+    "accent4": "#427b58",
+    "accent5": "#076678",
+    "accent6": "#8f3f71",
+    "accent7": "#d65d0e"
+}

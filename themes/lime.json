@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "lime",
+    "displayName": "lime",
+    "author": {
+        "name": "limelier"
+    },
+    "shade0": "#1a1a2f",
+    "shade1": "#202030",
+    "shade2": "#2a2a3f",
+    "shade3": "#313140",
+    "shade4": "#515155",
+    "shade5": "#818175",
+    "shade6": "#fff2d1",
+    "shade7": "#fff8e1",
+    "accent0": "#ff662a",
+    "accent1": "#ff773a",
+    "accent2": "#ffd15e",
+    "accent3": "#8cd97c",
+    "accent4": "#4cad83",
+    "accent5": "#2b926f",
+    "accent6": "#1b825f",
+    "accent7": "#b4d97c"
+}

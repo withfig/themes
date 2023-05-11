@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "shapeshifter",
+    "displayName": "Shapeshifter",
+    "author": {
+        "name": "Tyler Benziger (http://tybenz.com)"
+    },
+    "shade0": "#f9f9f9",
+    "shade1": "#e0e0e0",
+    "shade2": "#ababab",
+    "shade3": "#555555",
+    "shade4": "#343434",
+    "shade5": "#102015",
+    "shade6": "#040404",
+    "shade7": "#000000",
+    "accent0": "#e92f2f",
+    "accent1": "#e09448",
+    "accent2": "#dddd13",
+    "accent3": "#0ed839",
+    "accent4": "#23edda",
+    "accent5": "#3b48e3",
+    "accent6": "#f996e2",
+    "accent7": "#69542d"
+}

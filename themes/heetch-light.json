@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "heetch-light",
+    "displayName": "Heetch Light",
+    "author": {
+        "name": "Geoffrey Teale (tealeg@gmail.com)"
+    },
+    "shade0": "#feffff",
+    "shade1": "#392551",
+    "shade2": "#7b6d8b",
+    "shade3": "#9c92a8",
+    "shade4": "#ddd6e5",
+    "shade5": "#5a496e",
+    "shade6": "#470546",
+    "shade7": "#190134",
+    "accent0": "#27d9d5",
+    "accent1": "#bdb6c5",
+    "accent2": "#5ba2b6",
+    "accent3": "#f80059",
+    "accent4": "#c33678",
+    "accent5": "#47f9f5",
+    "accent6": "#bd0152",
+    "accent7": "#dedae2"
+}

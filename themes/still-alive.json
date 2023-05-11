@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "still-alive",
+    "displayName": "Still Alive",
+    "author": {
+        "name": "Derrick McKee (derrick.mckee@gmail.com)"
+    },
+    "shade0": "#F0F0F0",
+    "shade1": "#F0D848",
+    "shade2": "#FFF018",
+    "shade3": "#F01818",
+    "shade4": "#F00000",
+    "shade5": "#D80000",
+    "shade6": "#489000",
+    "shade7": "#30A860",
+    "accent0": "#487830",
+    "accent1": "#183048",
+    "accent2": "#426395",
+    "accent3": "#5C5C6A",
+    "accent4": "#2C3C57",
+    "accent5": "#001878",
+    "accent6": "#900000",
+    "accent7": "#140C0D"
+}

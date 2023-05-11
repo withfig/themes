@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "danqing",
+    "displayName": "DanQing",
+    "author": {
+        "name": "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)"
+    },
+    "shade0": "#2d302f",
+    "shade1": "#434846",
+    "shade2": "#5a605d",
+    "shade3": "#9da8a3",
+    "shade4": "#cad8d2",
+    "shade5": "#e0f0eF",
+    "shade6": "#ecf6f2",
+    "shade7": "#fcfefd",
+    "accent0": "#F9906F",
+    "accent1": "#B38A61",
+    "accent2": "#F0C239",
+    "accent3": "#8AB361",
+    "accent4": "#30DFF3",
+    "accent5": "#B0A4E3",
+    "accent6": "#CCA4E3",
+    "accent7": "#CA6924"
+}

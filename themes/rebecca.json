@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "rebecca",
+    "displayName": "Rebecca",
+    "author": {
+        "name": "Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)"
+    },
+    "shade0": "#292a44",
+    "shade1": "#663399",
+    "shade2": "#383a62",
+    "shade3": "#666699",
+    "shade4": "#a0a0c5",
+    "shade5": "#f1eff8",
+    "shade6": "#ccccff",
+    "shade7": "#53495d",
+    "accent0": "#a0a0c5",
+    "accent1": "#efe4a1",
+    "accent2": "#ae81ff",
+    "accent3": "#6dfedf",
+    "accent4": "#8eaee0",
+    "accent5": "#2de0a7",
+    "accent6": "#7aa5ff",
+    "accent7": "#ff79c6"
+}

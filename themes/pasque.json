@@ -1,0 +1,25 @@
+{
+    "$schema": "../schema.json",
+    "version": "2",
+    "name": "pasque",
+    "displayName": "Pasque",
+    "author": {
+        "name": "Gabriel Fontes (https://github.com/Misterio77)"
+    },
+    "shade0": "#271C3A",
+    "shade1": "#100323",
+    "shade2": "#3E2D5C",
+    "shade3": "#5D5766",
+    "shade4": "#BEBCBF",
+    "shade5": "#DEDCDF",
+    "shade6": "#EDEAEF",
+    "shade7": "#BBAADD",
+    "accent0": "#A92258",
+    "accent1": "#918889",
+    "accent2": "#804ead",
+    "accent3": "#C6914B",
+    "accent4": "#7263AA",
+    "accent5": "#8E7DC6",
+    "accent6": "#953B9D",
+    "accent7": "#59325C"
+}
