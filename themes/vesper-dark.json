@@ -1,0 +1,22 @@
+{
+  "$schema": "../schema.json",
+  "author": {
+    "name": "Igor Bedesqui",
+    "twitter": "@bedesqui",
+    "github": "bdsqqq"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#101010",
+    "matchBackgroundColor": "#FFC799",
+    "selection": {
+      "textColor": "#FFFFFF",
+      "backgroundColor": "#FFFFFF25"
+    },
+    "description": {
+      "textColor": "#FFFFFF",
+      "borderColor": "#101010"
+    }
+  }
+}
