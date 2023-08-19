@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Emrecan Karaçayır",
+    "twitter": "@emrcnkaracayir",
+    "github": "EmrecanKaracayir"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "#9C9C9C",
+    "backgroundColor": "#272727",
+    "matchBackgroundColor": "#31544F",
+    "selection": {
+      "textColor": "#CFCFCF",
+      "backgroundColor": "#383838"
+    },
+    "description": {
+      "textColor": "#757575",
+      "borderColor": "#383838"
+    }
+  }
+}
