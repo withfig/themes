@@ -10,11 +10,11 @@
     "backgroundColor": "#00000",
     "matchBackgroundColor": "#F990E8",
     "selection": {
-      "textColor": "#0BD2D3",
+      "textColor": "#bf00ff",
       "backgroundColor": "#F990E8"
     },
     "description": {
-      "textColor": "#0bd3d3",
+      "textColor": "#F990E8",
       "borderColor": "#F990E8"
     }
   }
