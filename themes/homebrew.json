@@ -1,0 +1,20 @@
+{
+  "author": {
+    "github": "devantler",
+    "name": "Nikolai Emil Damm"
+  },
+  "theme": {
+    "backgroundColor": "#000000",
+    "description": {
+      "borderColor": "#052f30",
+      "textColor": "#37bc27"
+    },
+    "matchBackgroundColor": "#98c379",
+    "selection": {
+      "backgroundColor": "#031d1f",
+      "textColor": "#00ff00"
+    },
+    "textColor": "#00ff00"
+  },
+  "version": "1.0"
+}
