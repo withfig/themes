@@ -1,0 +1,21 @@
+{
+    "author": {
+        "name": "Edu Wass",
+        "twitter": "@eduwass",
+        "github": "eduwass"
+    },
+    "version": "1.0",
+    "theme": {
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#2D2B55",
+        "matchBackgroundColor": "#1E1E3F",
+        "selection": {
+            "textColor": "#FAD000",
+            "backgroundColor": "#222244"
+        },
+        "description": {
+            "textColor": "#A599E9",
+            "borderColor": "#2D2B55"
+        }
+    }
+}
