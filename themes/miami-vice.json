@@ -1,0 +1,21 @@
+{
+  "$schema": "../schema.json",
+  "author": {
+    "name": "Isaac Barcroft",
+    "github": "isaacbarcroft"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "#0BD2D3",
+    "backgroundColor": "#00000",
+    "matchBackgroundColor": "#F990E8",
+    "selection": {
+      "textColor": "#bf00ff",
+      "backgroundColor": "#F990E8"
+    },
+    "description": {
+      "textColor": "#F990E8",
+      "borderColor": "#F990E8"
+    }
+  }
+}
